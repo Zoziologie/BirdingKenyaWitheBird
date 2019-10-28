@@ -1,0 +1,29 @@
+html, body, .initial-content, #app, .container-fluid, .row {
+    height: 100%;
+    overflow:hidden;
+}
+#table{
+    height: 100%;
+}
+html, body {
+    font-family: Roboto, Arial, sans-serif;
+}
+#map {
+    height: 100%;
+    z-index: 1;
+}
+.btn-checkbox > input{
+    display:none;
+}
+#number-checklists, #number-species{
+    width: 72px;
+}
+#select-Date, #number-checklists, #number-species{
+    margin-left: 5px;
+}
+.btn:hover{
+    cursor: pointer;
+}
+.th-inner {
+    transform: rotate(-90deg);
+}
