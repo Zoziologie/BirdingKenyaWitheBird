@@ -69,7 +69,7 @@ hotspots_export = list(filter(lambda x: x['numChecklists'] > 4, hotspots))
 
 # Writing the file
 tmp = json.dumps(hotspots_export)
-tmp = tmp.replace(' ','').replace('0.0','0')
+tmp = tmp.replace(' ','').replace(',0.0,',',0,')
 
 text_file = open("KE_enhanced.json", "w")
 text_file.write(tmp)
