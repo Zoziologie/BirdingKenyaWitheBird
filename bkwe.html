@@ -1,0 +1,118 @@
+---
+layout: blank
+permalink: /birdingkenyawithebird/
+title: "Birding Kenya with eBird"
+plugins:
+- token
+- jQuery
+- Bootstrap
+- BirdingKenyaWitheBird
+- Leaflet
+- Leaflet.MakiMarker
+- Leaflet.markercluster
+- leaflet-providers
+- no_default_script
+- font-awesome
+- handsontable
+- popper.js
+- bootstrap-multiselect
+---
+
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-4 px-0">
+			<div id="map"></div>
+		</div>
+		<div class="col-8">
+			<form class="form-inline my-3">
+				<div role="group" class="form-group">
+					<label for="select-Date" class="d-block">Dates:</label>
+					<div id="select-Date" role="group" tabindex="-1" class="btn-group-toggle btn-group btn-group-sm">
+						<label class="btn btn-secondary btn-sm active">
+							<input type="checkbox" name="selectDate" autocomplete="off" value="0"><span>Jan</span>
+						</label>
+						<label class="btn btn-secondary btn-sm active">
+							<input type="checkbox" name="selectDate" autocomplete="off" value="1"><span>Fev</span>
+						</label>
+						<label class="btn btn-secondary btn-sm active">
+							<input type="checkbox" name="selectDate" autocomplete="off" value="2"><span>Mar</span>
+						</label>
+						<label class="btn btn-secondary btn-sm active">
+							<input type="checkbox" name="selectDate" autocomplete="off" value="3"><span>Apr</span>
+						</label>
+						<label class="btn btn-secondary btn-sm active">
+							<input type="checkbox" name="selectDate" autocomplete="off" value="4"><span>May</span>
+						</label>
+						<label class="btn btn-secondary btn-sm active">
+							<input type="checkbox" name="selectDate" autocomplete="off" value="5"><span>Jun</span>
+						</label>
+						<label class="btn btn-secondary btn-sm active">
+							<input type="checkbox" name="selectDate" autocomplete="off" value="6"><span>Jul</span>
+						</label>
+						<label class="btn btn-secondary btn-sm active">
+							<input type="checkbox" name="selectDate" autocomplete="off" value="7"><span>Aug</span>
+						</label>
+						<label class="btn btn-secondary btn-sm active">
+							<input type="checkbox" name="selectDate" autocomplete="off" value="8"><span>Sep</span>
+						</label>
+						<label class="btn btn-secondary btn-sm active">
+							<input type="checkbox" name="selectDate" autocomplete="off" value="9"><span>Oct</span>
+						</label>
+						<label class="btn btn-secondary btn-sm active">
+							<input type="checkbox" name="selectDate" autocomplete="off" value="10"><span>Nov</span>
+						</label>
+						<label class="btn btn-secondary btn-sm active">
+							<input type="checkbox" name="selectDate" autocomplete="off" value="11"><span>Dec</span>
+						</label>
+					</div>
+				</div>
+				<div role="group" class="form-group  ml-sm-3">
+					<label for="select-Region" class="d-block">Region:</label>
+					<select id="select-Region" role="group" multiple="multiple">
+						<option value="KE-110" selected>Nairobi</option>
+						<option value="KE-200" selected>Central</option>
+						<option value="KE-300" selected>Coast</option>
+						<option value="KE-400" selected>Eastern</option>
+						<option value="KE-500" selected>North-Eastern</option>
+						<option value="KE-600" selected>Nyanza</option>
+						<option value="KE-700" selected>Rift Valley</option>
+						<option value="KE-800" selected>Western</option>
+					</select>
+				</div>
+				<div role="group" class="form-group ml-sm-3">
+					<label for="number-checklists" class="d-block">Number of Checklist:</label>
+					<div><input id="number-checklists" type="number" class="form-control" value="5" min="5"></div>
+				</div>
+				<div role="group" class="form-group ml-sm-3">
+					<div class="custom-control custom-switch">
+						<input type="checkbox" class="custom-control-input" id="NbProbSwitches">
+						<label class="custom-control-label" for="NbProbSwitches">Probability (%) / Number</label>
+					</div>
+				</div>
+				<!--<div role="group" class="form-group ml-sm-3">
+					<label for="number-species" class="d-block">Number of Species:</label>
+					<div><input id="number-species" type="number" class="form-control" value="0" min="0"></div>
+				</div>
+				<div class="ml-sm-3" id="nb-hotspot">
+					716 Hotspots
+				</div>
+				<button type="button" onclick="runTable()" class="btn ml-sm-3 btn-primary">Submit</button>-->
+				<div role="group" class="form-group  ml-sm-3">
+					<label for="select-Species" class="d-block">Selection of Species:</label>
+					<select id="select-Species" role="group" multiple="multiple"></select>
+				</div>
+			</form>
+			<div id="table"></div>
+		</div>
+	</div>
+</div>
+
+<div id="mymodal" class="modal" tabindex="-1" role="dialog">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-body">
+				<i class="fas fa-3x fa-circle-notch fa-spin" id="waait"></i>Loading...
+			</div>
+		</div>
+	</div>
+</div>

@@ -49,3 +49,22 @@ html, body {
   .linkMap{
       padding-left: 3px;
   }
+  .long-text{
+    overflow: auto;
+    height: 22px;
+  }
+  #canvas-range {
+    margin: 0;
+    margin-top: -5px;
+    font-size: small;
+}
+#canvas-max {
+    float: right;
+}
+.checkbox{
+    display: inline-block !important;
+    color: initial;
+}
+.checkbox:has(> a) {
+    text-decoration:none;
+}
