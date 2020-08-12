@@ -262,7 +262,7 @@ hot = new Handsontable(document.getElementById('table'), {
                 var index = TH.textContent.split('|')[1];
                 TH.firstElementChild.firstElementChild.innerHTML = TH.textContent.split('|')[0];
                 TH.firstElementChild.innerHTML += '<a href="https://ebird.org/map/'+SP[index].speciesCode+'?bmo=1&emo=12&byr=1900&eyr=2019&env.minX=33.91&env.minY=-4.72&env.maxX=41.888&env.maxY=4.634&gp=true" class="linkMap" target="_blank"><img src="https://zoziologie.raphaelnussbaumer.com/assets/Merge2Hotspot/images/faviconeBird16.png"></i></a>';
-                TH.firstElementChild.innerHTML +=  '<span class="iconToClick" onclick="DisplayMap(\''+SP[index].speciesCode+'\',\''+SP[index].displayName+'\')"><i class="fas fa-map"></i></span>'
+                TH.firstElementChild.innerHTML +=  '<span class="iconToClick" onclick="DisplayMap(\'+SP[index].speciesCode+\',\''+SP[index].displayName+'\')"><i class="fas fa-map"></i></span>'
                 if ( SP[index].class !== undefined ) {
                     SP[index].class.forEach( function(classtag){
                         var z = document.createElement('span');
