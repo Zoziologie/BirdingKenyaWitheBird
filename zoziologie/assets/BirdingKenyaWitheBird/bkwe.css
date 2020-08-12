@@ -1,0 +1,51 @@
+html, body, .initial-content, #app, .container-fluid, .row {
+    height: 100%;
+}
+html, body {
+    font-family: Roboto, Arial, sans-serif;
+}
+#map {
+    height: 100%;
+    z-index: 1;
+}
+.btn-checkbox > input{
+    display:none;
+}
+#number-checklists, #number-species{
+    width: 72px;
+}
+#select-Date, #number-checklists, #number-species{
+    margin-left: 5px;
+}
+.btn:hover{
+    cursor: pointer;
+}
+
+.handsontable{
+    font-size: smaller;
+}
+
+.head  {
+    height: 150px;
+    transform: rotate(-90deg) translateX(-150px);
+    transform-origin: top left;
+    left: 10px;
+}
+.tag{
+    font-weight: bold;
+}
+.name {
+    color: #3F51B5;
+    font-weight: bold;
+  }
+  .iconToClick{
+    height: 1.2em;
+    padding-left: 3px;
+
+  }
+  .iconToClick:hover{
+    cursor: pointer;
+  }
+  .linkMap{
+      padding-left: 3px;
+  }
