@@ -1,9 +1,5 @@
 html, body, .initial-content, #app, .container-fluid, .row {
     height: 100%;
-    overflow:hidden;
-}
-#table{
-    height: 100%;
 }
 html, body {
     font-family: Roboto, Arial, sans-serif;
@@ -24,6 +20,51 @@ html, body {
 .btn:hover{
     cursor: pointer;
 }
-.th-inner {
-    transform: rotate(-90deg);
+
+.handsontable{
+    font-size: smaller;
+}
+
+.head  {
+    height: 150px;
+    transform: rotate(-90deg) translateX(-150px);
+    transform-origin: top left;
+    left: 10px;
+}
+.tag{
+    font-weight: bold;
+}
+.name {
+    color: #3F51B5;
+    font-weight: bold;
+  }
+  .iconToClick{
+    height: 1.2em;
+    padding-left: 3px;
+
+  }
+  .iconToClick:hover{
+    cursor: pointer;
+  }
+  .linkMap{
+      padding-left: 3px;
+  }
+  .long-text{
+    overflow: auto;
+    height: 22px;
+  }
+  #canvas-range {
+    margin: 0;
+    margin-top: -5px;
+    font-size: small;
+}
+#canvas-max {
+    float: right;
+}
+.checkbox{
+    display: inline-block !important;
+    color: initial;
+}
+.checkbox:has(> a) {
+    text-decoration:none;
 }
