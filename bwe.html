@@ -1,12 +1,12 @@
 ---
 layout: blank
-permalink: /birdingkenyawithebird/
-title: "Birding Kenya with eBird"
+permalink: /birdingwithebird/
+title: "Birding with eBird"
 plugins:
 - token
 - jQuery
 - Bootstrap
-- BirdingKenyaWitheBird
+- BirdingWitheBird
 - Leaflet
 - Leaflet.MakiMarker
 - Leaflet.markercluster
@@ -15,17 +15,12 @@ plugins:
 - font-awesome
 - handsontable
 - popper.js
-- bootstrap-multiselect
+- bootstrap-select
 ---
 
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-4 px-0">
-			<div>
-				<h2>Birding Kenya with eBird</h2>
-				<p>eBird contains amazing information of the occurance of all species. The use of Hotspot provides a unique opportuinity to "standardize" the observations of all the observers to provide a probability of sightings.</p>
-				<p>With this web page, we aggregate the probability of observation of each spece at all hotspot in Kenya. You can then easily plan your trip in Kenya for choosing the best locations to see a specific target or see which species are the most likely to be found at a specific hotspots.</p>
-			</div>
 			<div id="map"></div>
 		</div>
 		<div class="col-8">
@@ -73,16 +68,8 @@ plugins:
 				</div>
 				<div role="group" class="form-group  ml-sm-3">
 					<label for="select-Region" class="d-block">Region:</label>
-					<select id="select-Region" role="group" multiple="multiple">
-						<option value="KE-110" selected>Nairobi</option>
-						<option value="KE-200" selected>Central</option>
-						<option value="KE-300" selected>Coast</option>
-						<option value="KE-400" selected>Eastern</option>
-						<option value="KE-500" selected>North-Eastern</option>
-						<option value="KE-600" selected>Nyanza</option>
-						<option value="KE-700" selected>Rift Valley</option>
-						<option value="KE-800" selected>Western</option>
-					</select>
+					<select id="select-Region" class="selectpicker" multiple>
+					</select>			  
 				</div>
 				<div role="group" class="form-group ml-sm-3">
 					<label for="number-checklists" class="d-block">Number of Checklist:</label>
@@ -104,7 +91,7 @@ plugins:
 				<button type="button" onclick="runTable()" class="btn ml-sm-3 btn-primary">Submit</button>-->
 				<div role="group" class="form-group  ml-sm-3">
 					<label for="select-Species" class="d-block">Selection of Species:</label>
-					<select id="select-Species" role="group" multiple="multiple"></select>
+					<select id="select-Species" class="selectpicker" role="group" multiple></select>
 				</div>
 			</form>
 			<div id="table"></div>
@@ -112,11 +99,23 @@ plugins:
 	</div>
 </div>
 
-<div id="mymodal" class="modal" tabindex="-1" role="dialog">
-	<div class="modal-dialog" role="document">
-		<div class="modal-content">
-			<div class="modal-body">
-				<i class="fas fa-3x fa-circle-notch fa-spin" id="waait"></i>Loading...
+<div id="mymodal" class="modal fade" tabindex="-1" role="dialog">
+	<div class="vertical-alignment-helper">
+		<div class="modal-dialog vertical-align-center" >
+			<div class="modal-content">
+				<div class="modal-body text-center">
+					<div class="dropdown-menu" id="selectCountry">
+						<h6 class="dropdown-header">Choose Country</h6>
+						<a class="dropdown-item" href="#" value="KE">Kenya</a>
+						<a class="dropdown-item" href="#" value="ES">Spain</a>
+						<a class="dropdown-item disabled" href="#" value="SA">South Africa</a>
+						
+					  </div>
+					  <div id="loading" style="display: none;">
+						<i class="fas fa-3x fa-circle-notch fa-spin" id="waait"></i>
+					  </div>
+					
+				</div>
 			</div>
 		</div>
 	</div>

@@ -4,6 +4,27 @@ html, body, .initial-content, #app, .container-fluid, .row {
 html, body {
     font-family: Roboto, Arial, sans-serif;
 }
+.vertical-alignment-helper {
+    display:table;
+    height: 100%;
+    width: 100%;
+    pointer-events:none; /* This makes sure that we can still click outside of the modal to close it */
+}
+.vertical-align-center {
+    /* To center vertically */
+    display: table-cell;
+    vertical-align: middle;
+    pointer-events:none;
+}
+.modal-content {
+    /* Bootstrap sets the size of the modal in the modal-dialog class, we need to inherit it */
+    width:inherit;
+    max-width:inherit; /* For Bootstrap 4 - to avoid the modal window stretching full width */
+    height:inherit;
+    /* To center horizontally */
+    margin: 0 auto;
+    pointer-events: all;
+}
 #map {
     height: 100%;
     z-index: 1;
@@ -67,4 +88,14 @@ html, body {
 }
 .checkbox:has(> a) {
     text-decoration:none;
+}
+
+#selectCountry{
+    display: inherit;
+    position: inherit;
+    text-align: center;
+    width: 50%;
+}
+#loading{
+    margin: 50px;
 }
