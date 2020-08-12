@@ -158,14 +158,15 @@ for sp in species:
             print(sp)
             
 # Keep only field with specie in the data
-for hot in hotspots_export:
+tmp = []
+for hot in hotspots_enhanced:
     tmp += list(hot['values'].keys())
 
 myset = set(tmp)
 species_export = list(filter(lambda x: x['speciesCode'] in myset, species))
 
 # Export
-with open('species.json', 'w') as f:
+with open(re+'/species.json', 'w') as f:
     json.dump(species_export, f)
 
 
