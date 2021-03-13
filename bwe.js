@@ -20,7 +20,7 @@ $(document).ready(function () {
         maxClusterRadius: 50,
         iconCreateFunction: function (cluster) {
             return L.icon({
-                iconUrl: "https://zoziologie.raphaelnussbaumer.com/assets/Merge2Hotspot/images/hotspot-icon-hotspot-plus_small.png",
+                iconUrl: "assets/Merge2Hotspot/images/hotspot-icon-hotspot-plus_small.png",
                 iconAnchor: [12, 30],
                 popupAnchor: [0, -12],
             })
@@ -30,11 +30,11 @@ $(document).ready(function () {
     speciesLayer = L.featureGroup().addTo(map);
     
     control = L.control.layers({
-        'MapBox': L.tileLayer.provider('MapBox', { id: 'rafnuss.npl3amec', accessToken: token.mapbox }).addTo(map),
+        'MapBox': L.tileLayer.provider('MapBox', { id: 'mapbox/streets-v11', accessToken: token.mapbox }).addTo(map),
         'OpenStreetMap': L.tileLayer.provider('OpenStreetMap.Mapnik'),
         'Satellite': L.tileLayer.provider('Esri.WorldImagery')
     },  {
-        "Hotspot <img src='https://zoziologie.raphaelnussbaumer.com/assets/Merge2Hotspot/images/hotspot-icon-hotspot_small.png' style='height: 1.5rem;'></img>": markers,
+        "Hotspot <img src='assets/Merge2Hotspot/images/hotspot-icon-hotspot_small.png' style='height: 1.5rem;'></img>": markers,
         'Species <i class="fas fa-map"></i><br><canvas id="canvas_viridis" width="100" height="10"></canvas><p id="canvas-range"><span id="canvas-min">0</span><span id="canvas-max">100</span></p>': speciesLayer
     }, { collapsed: false }).addTo(map);
     
@@ -140,7 +140,7 @@ $(document).ready(function () {
         
         
         
-        var l = 'https://zoziologie.raphaelnussbaumer.com/assets/BirdingWitheBird/'+c;
+        var l = 'assets/BirdingWitheBird/'+c;
         
         jQuery.getJSON(l+'/hotspots_enhanced.json', function (data) {
             C = data;
@@ -169,7 +169,7 @@ $(document).ready(function () {
                     title: c.locName,
                     id: c.locId,
                     icon: L.icon({
-                        iconUrl: "https://zoziologie.raphaelnussbaumer.com/assets/Merge2Hotspot/images/hotspot-icon-hotspot_small.png",
+                        iconUrl: "assets/Merge2Hotspot/images/hotspot-icon-hotspot_small.png",
                         iconAnchor: [12, 30],
                         popupAnchor: [0, -30],
                     })
@@ -243,7 +243,7 @@ $(document).ready(function () {
                         if (i > 5){
                             var index = TH.textContent.split('|')[1];
                             TH.firstElementChild.firstElementChild.innerHTML = TH.textContent.split('|')[0];
-                            TH.firstElementChild.innerHTML += '<a href="https://ebird.org/map/'+SP[index].speciesCode+'?env.minX=33.91&env.minY=-4.72&env.maxX=41.888&env.maxY=4.634&zh=true&gp=true" class="linkMap" target="_blank"><img src="https://zoziologie.raphaelnussbaumer.com/assets/Merge2Hotspot/images/faviconeBird16.png"></i></a>';
+                            TH.firstElementChild.innerHTML += '<a href="https://ebird.org/map/'+SP[index].speciesCode+'?env.minX=33.91&env.minY=-4.72&env.maxX=41.888&env.maxY=4.634&zh=true&gp=true" class="linkMap" target="_blank"><img src="assets/Merge2Hotspot/images/faviconeBird16.png"></i></a>';
                             TH.firstElementChild.innerHTML +=  '<span class="iconToClick" onclick="DisplayMap(\'+SP[index].speciesCode+\',\''+SP[index].displayName+'\')"><i class="fas fa-map"></i></span>'
                             if ( SP[index].class !== undefined ) {
                                 SP[index].class.forEach( function(classtag){
@@ -310,7 +310,7 @@ function buildData(){
         c_d.R = c.R;
         c_d.locName = '<div class="long-text">'+c.locName+'</div>';
         c_d.iconToClick = '<span class="iconToClick" onclick="iconToClick('+i_c+')" ><i class="fas fa-map-marker-alt"></i></span>';
-        c_d.eBird = '<a href="https://ebird.org/hotspot/' + c.locId + '" target="_blank"><img src="https://zoziologie.raphaelnussbaumer.com/assets/Merge2Hotspot/images/faviconeBird16.png"></a>';
+        c_d.eBird = '<a href="https://ebird.org/hotspot/' + c.locId + '" target="_blank"><img src="assets/Merge2Hotspot/images/faviconeBird16.png"></a>';
         c_d.lat  = c.lat;
         c_d.lng  = c.lng;
         //c_d.sel = "<input type='checkbox' class='selectorLocId' value='" + c.locId + "'" + (c.sel ? ' checked="checked" ' : '') + ">";

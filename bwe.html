@@ -27,44 +27,20 @@ plugins:
 			<form class="form-inline my-3">
 				<div role="group" class="form-group">
 					<label for="select-Date" class="d-block">Dates:</label>
-					<div id="select-Date" role="group" tabindex="-1" class="btn-group-toggle btn-group btn-group-sm">
-						<label class="btn btn-secondary btn-sm active">
-							<input type="checkbox" name="selectDate" autocomplete="off" value="0"><span>Jan</span>
-						</label>
-						<label class="btn btn-secondary btn-sm active">
-							<input type="checkbox" name="selectDate" autocomplete="off" value="1"><span>Fev</span>
-						</label>
-						<label class="btn btn-secondary btn-sm active">
-							<input type="checkbox" name="selectDate" autocomplete="off" value="2"><span>Mar</span>
-						</label>
-						<label class="btn btn-secondary btn-sm active">
-							<input type="checkbox" name="selectDate" autocomplete="off" value="3"><span>Apr</span>
-						</label>
-						<label class="btn btn-secondary btn-sm active">
-							<input type="checkbox" name="selectDate" autocomplete="off" value="4"><span>May</span>
-						</label>
-						<label class="btn btn-secondary btn-sm active">
-							<input type="checkbox" name="selectDate" autocomplete="off" value="5"><span>Jun</span>
-						</label>
-						<label class="btn btn-secondary btn-sm active">
-							<input type="checkbox" name="selectDate" autocomplete="off" value="6"><span>Jul</span>
-						</label>
-						<label class="btn btn-secondary btn-sm active">
-							<input type="checkbox" name="selectDate" autocomplete="off" value="7"><span>Aug</span>
-						</label>
-						<label class="btn btn-secondary btn-sm active">
-							<input type="checkbox" name="selectDate" autocomplete="off" value="8"><span>Sep</span>
-						</label>
-						<label class="btn btn-secondary btn-sm active">
-							<input type="checkbox" name="selectDate" autocomplete="off" value="9"><span>Oct</span>
-						</label>
-						<label class="btn btn-secondary btn-sm active">
-							<input type="checkbox" name="selectDate" autocomplete="off" value="10"><span>Nov</span>
-						</label>
-						<label class="btn btn-secondary btn-sm active">
-							<input type="checkbox" name="selectDate" autocomplete="off" value="11"><span>Dec</span>
-						</label>
-					</div>
+					<select id="select-Date" class="selectpicker" role="group" multiple>
+						<option value="0" selected>January</option>
+						<option value="1" selected>February</option>
+						<option value="2" selected>March</option>
+						<option value="3" selected>April</option>
+						<option value="4" selected>May</option>
+						<option value="5" selected>June</option>
+						<option value="6" selected>July</option>
+						<option value="7" selected>August</option>
+						<option value="8" selected>September</option>
+						<option value="9" selected>October</option>
+						<option value="10" selected>November</option>
+						<option value="11" selected>December</option>
+					</select>
 				</div>
 				<div role="group" class="form-group  ml-sm-3">
 					<label for="select-Region" class="d-block">Region:</label>
@@ -114,7 +90,6 @@ plugins:
 					  <div id="loading" style="display: none;">
 						<i class="fas fa-3x fa-circle-notch fa-spin" id="waait"></i>
 					  </div>
-					
 				</div>
 			</div>
 		</div>
