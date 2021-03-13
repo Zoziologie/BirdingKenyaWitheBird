@@ -1,0 +1,769 @@
+displayName,commonName,sciName,speciesCode,category,reportAsSpeciesCode,reportAsCategory,showSpeciesPageLink
+Black-bellied Whistling-Duck,Black-bellied Whistling-Duck,Dendrocygna autumnalis,bbwduc,species,bbwduc,species,True
+Fulvous Whistling-Duck,Fulvous Whistling-Duck,Dendrocygna bicolor,fuwduc,species,fuwduc,species,True
+Bar-headed Goose,Bar-headed Goose,Anser indicus,bahgoo,species,bahgoo,species,True
+Snow Goose,Snow Goose,Anser caerulescens,snogoo,species,snogoo,species,True
+Graylag Goose,Graylag Goose,Anser anser,gragoo,species,gragoo,species,True
+Graylag Goose (Domestic type),Graylag Goose (Domestic type),Anser anser (Domestic type),gragoo1,domestic,gragoo1,domestic,False
+Swan Goose (Domestic type),Swan Goose (Domestic type),Anser cygnoides (Domestic type),swagoo2,domestic,swagoo2,domestic,False
+Graylag x Swan Goose (Domestic type) (hybrid),Graylag x Swan Goose (Domestic type) (hybrid),Anser anser x cygnoides (Domestic type),x00776,hybrid,x00776,hybrid,False
+Greater White-fronted Goose,Greater White-fronted Goose,Anser albifrons,gwfgoo,species,gwfgoo,species,True
+Lesser White-fronted Goose,Lesser White-fronted Goose,Anser erythropus,lwfgoo,species,lwfgoo,species,True
+Taiga Bean-Goose,Taiga Bean-Goose,Anser fabalis,taibeg1,species,taibeg1,species,True
+Tundra Bean-Goose,Tundra Bean-Goose,Anser serrirostris,tunbeg1,species,tunbeg1,species,True
+Taiga/Tundra Bean-Goose,Taiga/Tundra Bean-Goose,Anser fabalis/serrirostris,y00468,slash,y00468,slash,False
+Pink-footed Goose,Pink-footed Goose,Anser brachyrhynchus,pifgoo,species,pifgoo,species,True
+Domestic goose sp. (Domestic type),Domestic goose sp. (Domestic type),Anser sp. (Domestic type),domgoo1,domestic,domgoo1,domestic,False
+Anser sp.,Anser sp.,Anser sp.,anser1,spuh,anser1,spuh,False
+Brant,Brant,Branta bernicla,brant,species,brant,species,True
+Barnacle Goose,Barnacle Goose,Branta leucopsis,bargoo,species,bargoo,species,True
+Graylag x Barnacle Goose (hybrid),Graylag x Barnacle Goose (hybrid),Anser anser x Branta leucopsis,x00649,hybrid,x00649,hybrid,False
+Cackling Goose,Cackling Goose,Branta hutchinsii,cacgoo1,species,cacgoo1,species,True
+Canada Goose,Canada Goose,Branta canadensis,cangoo,species,cangoo,species,True
+Graylag x Canada Goose (hybrid),Graylag x Canada Goose (hybrid),Anser anser x Branta canadensis,x00758,hybrid,x00758,hybrid,False
+Graylag Goose (Domestic type) x Canada Goose (hybrid),Graylag Goose (Domestic type) x Canada Goose (hybrid),Anser anser (Domestic type) x Branta canadensis,gragoo4,hybrid,gragoo4,hybrid,False
+Barnacle x Canada Goose (hybrid),Barnacle x Canada Goose (hybrid),Branta leucopsis x canadensis,x00417,hybrid,x00417,hybrid,False
+Red-breasted Goose,Red-breasted Goose,Branta ruficollis,rebgoo1,species,rebgoo1,species,True
+goose sp.,goose sp.,Anser/Branta sp.,goose1,spuh,goose1,spuh,False
+Mute Swan,Mute Swan,Cygnus olor,mutswa,species,mutswa,species,True
+Black Swan,Black Swan,Cygnus atratus,blkswa,species,blkswa,species,True
+Tundra Swan,Tundra Swan,Cygnus columbianus,tunswa,species,tunswa,species,True
+Whooper Swan,Whooper Swan,Cygnus cygnus,whoswa,species,whoswa,species,True
+swan sp.,swan sp.,Cygnus sp.,swan1,spuh,swan1,spuh,False
+Egyptian Goose,Egyptian Goose,Alopochen aegyptiaca,egygoo,species,egygoo,species,True
+Ruddy Shelduck,Ruddy Shelduck,Tadorna ferruginea,rudshe,species,rudshe,species,True
+Common Shelduck,Common Shelduck,Tadorna tadorna,comshe,species,comshe,species,True
+Ruddy x Common Shelduck (hybrid),Ruddy x Common Shelduck (hybrid),Tadorna ferruginea x tadorna,x00876,hybrid,x00876,hybrid,False
+Muscovy Duck,Muscovy Duck,Cairina moschata,musduc,species,musduc,species,True
+Muscovy Duck (Domestic type),Muscovy Duck (Domestic type),Cairina moschata (Domestic type),musduc2,domestic,musduc2,domestic,False
+Ringed Teal,Ringed Teal,Callonetta leucophrys,rintea1,species,rintea1,species,True
+Wood Duck,Wood Duck,Aix sponsa,wooduc,species,wooduc,species,True
+Mandarin Duck,Mandarin Duck,Aix galericulata,manduc,species,manduc,species,True
+Brazilian Teal,Brazilian Teal,Amazonetta brasiliensis,bratea1,species,bratea1,species,True
+Baikal Teal,Baikal Teal,Sibirionetta formosa,baitea,species,baitea,species,True
+Garganey,Garganey,Spatula querquedula,gargan,species,gargan,species,True
+Blue-winged Teal,Blue-winged Teal,Spatula discors,buwtea,species,buwtea,species,True
+Cinnamon Teal,Cinnamon Teal,Spatula cyanoptera,cintea,species,cintea,species,True
+Northern Shoveler,Northern Shoveler,Spatula clypeata,norsho,species,norsho,species,True
+Blue-winged Teal x Northern Shoveler (hybrid),Blue-winged Teal x Northern Shoveler (hybrid),Spatula discors x clypeata,x00629,hybrid,x00629,hybrid,False
+Gadwall,Gadwall,Mareca strepera,gadwal,species,gadwal,species,True
+Eurasian Wigeon,Eurasian Wigeon,Mareca penelope,eurwig,species,eurwig,species,True
+Gadwall x Eurasian Wigeon (hybrid),Gadwall x Eurasian Wigeon (hybrid),Mareca strepera x penelope,x00723,hybrid,x00723,hybrid,False
+American Wigeon,American Wigeon,Mareca americana,amewig,species,amewig,species,True
+Chiloe Wigeon,Chiloe Wigeon,Mareca sibilatrix,chiwig1,species,chiwig1,species,True
+Mallard,Mallard,Anas platyrhynchos,mallar3,species,mallar3,species,True
+Mallard (Domestic type),Mallard (Domestic type),Anas platyrhynchos (Domestic type),mallar2,domestic,mallar2,domestic,False
+Muscovy Duck x Mallard (hybrid),Muscovy Duck x Mallard (hybrid),Cairina moschata x Anas platyrhynchos,mdxmal1,hybrid,mdxmal1,hybrid,False
+Wood Duck x Mallard (hybrid),Wood Duck x Mallard (hybrid),Aix sponsa x Anas platyrhynchos,x00205,hybrid,x00205,hybrid,False
+Gadwall x Mallard (hybrid),Gadwall x Mallard (hybrid),Mareca strepera x Anas platyrhynchos,x00420,hybrid,x00420,hybrid,False
+Mallard/Mexican Duck,Mallard/Mexican Duck,Anas platyrhynchos/diazi,mallar,slash,mallar,slash,False
+American Black Duck,American Black Duck,Anas rubripes,ambduc,species,ambduc,species,True
+Mallard x American Black Duck (hybrid),Mallard x American Black Duck (hybrid),Anas platyrhynchos x rubripes,x00004,hybrid,x00004,hybrid,False
+White-cheeked Pintail,White-cheeked Pintail,Anas bahamensis,whcpin,species,whcpin,species,True
+Northern Pintail,Northern Pintail,Anas acuta,norpin,species,norpin,species,True
+Mallard x Northern Pintail (hybrid),Mallard x Northern Pintail (hybrid),Anas platyrhynchos x acuta,x00628,hybrid,x00628,hybrid,False
+Yellow-billed Pintail,Yellow-billed Pintail,Anas georgica,yebpin1,species,yebpin1,species,True
+Green-winged Teal,Green-winged Teal,Anas crecca,gnwtea,species,gnwtea,species,True
+Garganey/Green-winged Teal,Garganey/Green-winged Teal,Spatula querquedula/Anas crecca,y00766,slash,y00766,slash,False
+Anas sp.,Anas sp.,Anas sp.,anas1,spuh,anas1,spuh,False
+dabbling duck sp.,dabbling duck sp.,Anatidae sp. (dabbling duck sp.),dabduc1,spuh,dabduc1,spuh,False
+Marbled Teal,Marbled Teal,Marmaronetta angustirostris,martea1,species,martea1,species,True
+Red-crested Pochard,Red-crested Pochard,Netta rufina,recpoc,species,recpoc,species,True
+Mallard x Red-crested Pochard (hybrid),Mallard x Red-crested Pochard (hybrid),Anas platyrhynchos x Netta rufina,x00648,hybrid,x00648,hybrid,False
+Common Pochard,Common Pochard,Aythya ferina,compoc,species,compoc,species,True
+Ring-necked Duck,Ring-necked Duck,Aythya collaris,rinduc,species,rinduc,species,True
+Ferruginous Duck,Ferruginous Duck,Aythya nyroca,ferduc,species,ferduc,species,True
+Common Pochard x Ferruginous Duck (hybrid),Common Pochard x Ferruginous Duck (hybrid),Aythya ferina x nyroca,x00764,hybrid,x00764,hybrid,False
+Tufted Duck,Tufted Duck,Aythya fuligula,tufduc,species,tufduc,species,True
+Common Pochard x Tufted Duck (hybrid),Common Pochard x Tufted Duck (hybrid),Aythya ferina x fuligula,x00683,hybrid,x00683,hybrid,False
+Ring-necked x Tufted Duck (hybrid),Ring-necked x Tufted Duck (hybrid),Aythya collaris x fuligula,x00652,hybrid,x00652,hybrid,False
+Ferruginous x Tufted Duck (hybrid),Ferruginous x Tufted Duck (hybrid),Aythya nyroca x fuligula,x00839,hybrid,x00839,hybrid,False
+Greater Scaup,Greater Scaup,Aythya marila,gresca,species,gresca,species,True
+Tufted Duck x Greater Scaup (hybrid),Tufted Duck x Greater Scaup (hybrid),Aythya fuligula x marila,x00654,hybrid,x00654,hybrid,False
+Lesser Scaup,Lesser Scaup,Aythya affinis,lessca,species,lessca,species,True
+Aythya sp.,Aythya sp.,Aythya sp.,aythya1,spuh,aythya1,spuh,False
+Common Eider,Common Eider,Somateria mollissima,comeid,species,comeid,species,True
+Surf Scoter,Surf Scoter,Melanitta perspicillata,sursco,species,sursco,species,True
+Velvet Scoter,Velvet Scoter,Melanitta fusca,whwsco3,species,whwsco3,species,True
+Stejneger's Scoter,Stejneger's Scoter,Melanitta stejnegeri,whwsco1,species,whwsco1,species,True
+Common Scoter,Common Scoter,Melanitta nigra,blksco1,species,blksco1,species,True
+scoter sp.,scoter sp.,Melanitta sp.,scoter,spuh,scoter,spuh,False
+Long-tailed Duck,Long-tailed Duck,Clangula hyemalis,lotduc,species,lotduc,species,True
+Bufflehead,Bufflehead,Bucephala albeola,buffle,species,buffle,species,True
+Common Goldeneye,Common Goldeneye,Bucephala clangula,comgol,species,comgol,species,True
+Smew,Smew,Mergellus albellus,smew,species,smew,species,True
+Common Merganser,Common Merganser,Mergus merganser,commer,species,commer,species,True
+Red-breasted Merganser,Red-breasted Merganser,Mergus serrator,rebmer,species,rebmer,species,True
+Ruddy Duck,Ruddy Duck,Oxyura jamaicensis,rudduc,species,rudduc,species,True
+White-headed Duck,White-headed Duck,Oxyura leucocephala,whhduc1,species,whhduc1,species,True
+Ruddy x White-headed Duck (hybrid),Ruddy x White-headed Duck (hybrid),Oxyura jamaicensis x leucocephala,x00705,hybrid,x00705,hybrid,False
+duck sp.,duck sp.,Anatinae sp.,duck1,spuh,duck1,spuh,False
+waterfowl sp.,waterfowl sp.,Anatidae sp.,waterf1,spuh,waterf1,spuh,False
+Helmeted Guineafowl (Domestic type),Helmeted Guineafowl (Domestic type),Numida meleagris (Domestic type),helgui1,domestic,helgui1,domestic,False
+Indian Peafowl (Domestic type),Indian Peafowl (Domestic type),Pavo cristatus (Domestic type),indpea1,domestic,indpea1,domestic,False
+Common Quail,Common Quail,Coturnix coturnix,comqua1,species,comqua1,species,True
+Red-legged Partridge,Red-legged Partridge,Alectoris rufa,relpar1,species,relpar1,species,True
+Barbary Partridge,Barbary Partridge,Alectoris barbara,barpar2,species,barpar2,species,True
+Ring-necked Pheasant,Ring-necked Pheasant,Phasianus colchicus,rinphe,species,rinphe,species,True
+Gray Partridge,Gray Partridge,Perdix perdix,grypar,species,grypar,species,True
+Wild Turkey (Domestic type),Wild Turkey (Domestic type),Meleagris gallopavo (Domestic type),wiltur1,domestic,wiltur1,domestic,False
+Chilean Flamingo,Chilean Flamingo,Phoenicopterus chilensis,chifla1,species,chifla1,species,True
+American Flamingo,American Flamingo,Phoenicopterus ruber,grefla2,species,grefla2,species,True
+Greater Flamingo,Greater Flamingo,Phoenicopterus roseus,grefla3,species,grefla3,species,True
+American/Greater Flamingo,American/Greater Flamingo,Phoenicopterus ruber/roseus,grefla,slash,grefla,slash,False
+Lesser Flamingo,Lesser Flamingo,Phoeniconaias minor,lesfla1,species,lesfla1,species,True
+Little Grebe,Little Grebe,Tachybaptus ruficollis,litgre1,species,litgre1,species,True
+Pied-billed Grebe,Pied-billed Grebe,Podilymbus podiceps,pibgre,species,pibgre,species,True
+Horned Grebe,Horned Grebe,Podiceps auritus,horgre,species,horgre,species,True
+Red-necked Grebe,Red-necked Grebe,Podiceps grisegena,rengre,species,rengre,species,True
+Great Crested Grebe,Great Crested Grebe,Podiceps cristatus,grcgre1,species,grcgre1,species,True
+Eared Grebe,Eared Grebe,Podiceps nigricollis,eargre,species,eargre,species,True
+Horned/Eared Grebe,Horned/Eared Grebe,Podiceps auritus/nigricollis,y00229,slash,y00229,slash,False
+Rock Pigeon,Rock Pigeon,Columba livia,rocpig,species,rocpig,species,True
+Stock Dove,Stock Dove,Columba oenas,stodov1,species,stodov1,species,True
+Common Wood-Pigeon,Common Wood-Pigeon,Columba palumbus,cowpig1,species,cowpig1,species,True
+Columba sp.,Columba sp.,Columba sp.,columb1,spuh,columb1,spuh,False
+European Turtle-Dove,European Turtle-Dove,Streptopelia turtur,eutdov,species,eutdov,species,True
+Eurasian Collared-Dove,Eurasian Collared-Dove,Streptopelia decaocto,eucdov,species,eucdov,species,True
+African Collared-Dove,African Collared-Dove,Streptopelia roseogrisea,afcdov1,species,afcdov1,species,True
+African Collared-Dove (Domestic type or Ringed Turtle-Dove),African Collared-Dove (Domestic type or Ringed Turtle-Dove),Streptopelia roseogrisea (Domestic type),afrcod1,domestic,afrcod1,domestic,False
+Laughing Dove,Laughing Dove,Streptopelia senegalensis,laudov1,species,laudov1,species,True
+Streptopelia sp.,Streptopelia sp.,Streptopelia sp.,strept1,spuh,strept1,spuh,False
+Mourning Dove,Mourning Dove,Zenaida macroura,moudov,species,moudov,species,True
+pigeon/dove sp.,pigeon/dove sp.,Columbidae sp.,dove1,spuh,dove1,spuh,False
+Pin-tailed Sandgrouse,Pin-tailed Sandgrouse,Pterocles alchata,pitsan1,species,pitsan1,species,True
+Black-bellied Sandgrouse,Black-bellied Sandgrouse,Pterocles orientalis,blbsan1,species,blbsan1,species,True
+sandgrouse sp.,sandgrouse sp.,Pterocles sp.,sandgr1,spuh,sandgr1,spuh,False
+Great Bustard,Great Bustard,Otis tarda,grebus1,species,grebus1,species,True
+Houbara Bustard,Houbara Bustard,Chlamydotis undulata,houbus1,species,houbus1,species,True
+Little Bustard,Little Bustard,Tetrax tetrax,litbus1,species,litbus1,species,True
+Great Spotted Cuckoo,Great Spotted Cuckoo,Clamator glandarius,grscuc1,species,grscuc1,species,True
+Common Cuckoo,Common Cuckoo,Cuculus canorus,comcuc,species,comcuc,species,True
+Red-necked Nightjar,Red-necked Nightjar,Caprimulgus ruficollis,rennig1,species,rennig1,species,True
+Eurasian Nightjar,Eurasian Nightjar,Caprimulgus europaeus,eurnig1,species,eurnig1,species,True
+Red-necked/Eurasian Nightjar,Red-necked/Eurasian Nightjar,Caprimulgus ruficollis/europaeus,y00677,slash,y00677,slash,False
+Caprimulgus sp.,Caprimulgus sp.,Caprimulgus sp.,caprim1,spuh,caprim1,spuh,False
+Chimney Swift,Chimney Swift,Chaetura pelagica,chiswi,species,chiswi,species,True
+Alpine Swift,Alpine Swift,Apus melba,alpswi1,species,alpswi1,species,True
+Common Swift,Common Swift,Apus apus,comswi,species,comswi,species,True
+Plain Swift,Plain Swift,Apus unicolor,plaswi1,species,plaswi1,species,True
+Pallid Swift,Pallid Swift,Apus pallidus,palswi3,species,palswi3,species,True
+Common/Pallid Swift,Common/Pallid Swift,Apus apus/pallidus,y00732,slash,y00732,slash,False
+Little Swift,Little Swift,Apus affinis,litswi1,species,litswi1,species,True
+White-rumped Swift,White-rumped Swift,Apus caffer,whrswi1,species,whrswi1,species,True
+Apus sp.,Apus sp.,Apus sp.,apus1,spuh,apus1,spuh,False
+swift sp.,swift sp.,Apodidae sp.,swift1,spuh,swift1,spuh,False
+Water Rail,Water Rail,Rallus aquaticus,watrai1,species,watrai1,species,True
+Corn Crake,Corn Crake,Crex crex,corcra,species,corcra,species,True
+Giant Wood-Rail,Giant Wood-Rail,Aramides ypecaha,giwrai1,species,giwrai1,species,True
+Spotted Crake,Spotted Crake,Porzana porzana,spocra1,species,spocra1,species,True
+Eurasian Moorhen,Eurasian Moorhen,Gallinula chloropus,commoo3,species,commoo3,species,True
+Eurasian Coot,Eurasian Coot,Fulica atra,eurcoo,species,eurcoo,species,True
+Red-knobbed Coot,Red-knobbed Coot,Fulica cristata,rekcoo1,species,rekcoo1,species,True
+Eurasian/Red-knobbed Coot,Eurasian/Red-knobbed Coot,Fulica atra/cristata,y00680,slash,y00680,slash,False
+Eurasian x Red-knobbed Coot (hybrid),Eurasian x Red-knobbed Coot (hybrid),Fulica atra x cristata,x00911,hybrid,x00911,hybrid,False
+American Coot,American Coot,Fulica americana,y00475,species,y00475,species,True
+coot sp.,coot sp.,Fulica sp.,coot1,spuh,coot1,spuh,False
+Allen's Gallinule,Allen's Gallinule,Porphyrio alleni,allgal1,species,allgal1,species,True
+Purple Gallinule,Purple Gallinule,Porphyrio martinica,purgal2,species,purgal2,species,True
+Western Swamphen,Western Swamphen,Porphyrio porphyrio,purswa1,species,purswa1,species,True
+Little Crake,Little Crake,Zapornia parva,litcra1,species,litcra1,species,True
+Baillon's Crake,Baillon's Crake,Zapornia pusilla,baicra1,species,baicra1,species,True
+Little/Baillon's Crake,Little/Baillon's Crake,Zapornia parva/pusilla,y00950,slash,y00950,slash,False
+Spotted/Little/Baillon's Crake,Spotted/Little/Baillon's Crake,Porzana porzana/Zapornia parva/pusilla,y01026,slash,y01026,slash,False
+Zapornia sp.,Zapornia sp.,Zapornia sp.,zaporn1,spuh,zaporn1,spuh,False
+Porzana/Zapornia/Hapalocrex sp.,Porzana/Zapornia/Hapalocrex sp.,Porzana/Zapornia/Hapalocrex sp.,porzan1,spuh,porzan1,spuh,False
+Demoiselle Crane,Demoiselle Crane,Anthropoides virgo,demcra1,species,demcra1,species,True
+Sandhill Crane,Sandhill Crane,Antigone canadensis,sancra,species,sancra,species,True
+Common Crane,Common Crane,Grus grus,comcra,species,comcra,species,True
+Eurasian Thick-knee,Eurasian Thick-knee,Burhinus oedicnemus,eutkne1,species,eutkne1,species,True
+Egyptian Plover,Egyptian Plover,Pluvianus aegyptius,egyplo1,species,egyplo1,species,True
+Black-winged Stilt,Black-winged Stilt,Himantopus himantopus,bkwsti,species,bkwsti,species,True
+Pied Avocet,Pied Avocet,Recurvirostra avosetta,pieavo1,species,pieavo1,species,True
+Eurasian Oystercatcher,Eurasian Oystercatcher,Haematopus ostralegus,euroys1,species,euroys1,species,True
+Black-bellied Plover,Black-bellied Plover,Pluvialis squatarola,bkbplo,species,bkbplo,species,True
+European Golden-Plover,European Golden-Plover,Pluvialis apricaria,eugplo,species,eugplo,species,True
+American Golden-Plover,American Golden-Plover,Pluvialis dominica,amgplo,species,amgplo,species,True
+Pacific Golden-Plover,Pacific Golden-Plover,Pluvialis fulva,pagplo,species,pagplo,species,True
+Black-bellied Plover/golden-plover sp.,Black-bellied Plover/golden-plover sp.,Pluvialis sp.,y00494,spuh,y00494,spuh,False
+Northern Lapwing,Northern Lapwing,Vanellus vanellus,norlap,species,norlap,species,True
+Sociable Lapwing,Sociable Lapwing,Vanellus gregarius,soclap1,species,soclap1,species,True
+Greater Sand-Plover,Greater Sand-Plover,Charadrius leschenaultii,grsplo,species,grsplo,species,True
+Lesser/Greater Sand-Plover,Lesser/Greater Sand-Plover,Charadrius mongolus/leschenaultii,y00648,slash,y00648,slash,False
+Kentish Plover,Kentish Plover,Charadrius alexandrinus,kenplo1,species,kenplo1,species,True
+Common Ringed Plover,Common Ringed Plover,Charadrius hiaticula,corplo,species,corplo,species,True
+Little Ringed Plover,Little Ringed Plover,Charadrius dubius,lirplo,species,lirplo,species,True
+Killdeer,Killdeer,Charadrius vociferus,killde,species,killde,species,True
+Eurasian Dotterel,Eurasian Dotterel,Charadrius morinellus,eurdot,species,eurdot,species,True
+small plover sp.,small plover sp.,Charadrius sp.,smaplo1,spuh,smaplo1,spuh,False
+plover sp.,plover sp.,Charadriidae sp.,plover2,spuh,plover2,spuh,False
+Whimbrel,Whimbrel,Numenius phaeopus,whimbr,species,whimbr,species,True
+Eurasian Curlew,Eurasian Curlew,Numenius arquata,eurcur,species,eurcur,species,True
+Whimbrel/Eurasian Curlew,Whimbrel/Eurasian Curlew,Numenius phaeopus/arquata,y00774,slash,y00774,slash,False
+curlew sp.,curlew sp.,Numenius sp.,curlew1,spuh,curlew1,spuh,False
+Bar-tailed Godwit,Bar-tailed Godwit,Limosa lapponica,batgod,species,batgod,species,True
+Black-tailed Godwit,Black-tailed Godwit,Limosa limosa,bktgod,species,bktgod,species,True
+godwit sp.,godwit sp.,Limosa sp.,godwit1,spuh,godwit1,spuh,False
+Ruddy Turnstone,Ruddy Turnstone,Arenaria interpres,rudtur,species,rudtur,species,True
+Great Knot,Great Knot,Calidris tenuirostris,grekno,species,grekno,species,True
+Red Knot,Red Knot,Calidris canutus,redkno,species,redkno,species,True
+Ruff,Ruff,Calidris pugnax,ruff,species,ruff,species,True
+Broad-billed Sandpiper,Broad-billed Sandpiper,Calidris falcinellus,brbsan,species,brbsan,species,True
+Sharp-tailed Sandpiper,Sharp-tailed Sandpiper,Calidris acuminata,shtsan,species,shtsan,species,True
+Curlew Sandpiper,Curlew Sandpiper,Calidris ferruginea,cursan,species,cursan,species,True
+Temminck's Stint,Temminck's Stint,Calidris temminckii,temsti,species,temsti,species,True
+Sanderling,Sanderling,Calidris alba,sander,species,sander,species,True
+Dunlin,Dunlin,Calidris alpina,dunlin,species,dunlin,species,True
+Purple Sandpiper,Purple Sandpiper,Calidris maritima,pursan,species,pursan,species,True
+Baird's Sandpiper,Baird's Sandpiper,Calidris bairdii,baisan,species,baisan,species,True
+Little Stint,Little Stint,Calidris minuta,litsti,species,litsti,species,True
+White-rumped Sandpiper,White-rumped Sandpiper,Calidris fuscicollis,whrsan,species,whrsan,species,True
+Buff-breasted Sandpiper,Buff-breasted Sandpiper,Calidris subruficollis,bubsan,species,bubsan,species,True
+Pectoral Sandpiper,Pectoral Sandpiper,Calidris melanotos,pecsan,species,pecsan,species,True
+Semipalmated Sandpiper,Semipalmated Sandpiper,Calidris pusilla,semsan,species,semsan,species,True
+peep sp.,peep sp.,Calidris sp. (peep sp.),calidr,spuh,calidr,spuh,False
+Calidris sp.,Calidris sp.,Calidris sp.,calidr1,spuh,calidr1,spuh,False
+Short-billed Dowitcher,Short-billed Dowitcher,Limnodromus griseus,shbdow,species,shbdow,species,True
+Long-billed Dowitcher,Long-billed Dowitcher,Limnodromus scolopaceus,lobdow,species,lobdow,species,True
+Jack Snipe,Jack Snipe,Lymnocryptes minimus,jacsni,species,jacsni,species,True
+Eurasian Woodcock,Eurasian Woodcock,Scolopax rusticola,eurwoo,species,eurwoo,species,True
+Great Snipe,Great Snipe,Gallinago media,gresni1,species,gresni1,species,True
+Common Snipe,Common Snipe,Gallinago gallinago,comsni,species,comsni,species,True
+snipe sp.,snipe sp.,Gallinago sp.,snipe2,spuh,snipe2,spuh,False
+Terek Sandpiper,Terek Sandpiper,Xenus cinereus,tersan,species,tersan,species,True
+Wilson's Phalarope,Wilson's Phalarope,Phalaropus tricolor,wilpha,species,wilpha,species,True
+Red-necked Phalarope,Red-necked Phalarope,Phalaropus lobatus,renpha,species,renpha,species,True
+Red Phalarope,Red Phalarope,Phalaropus fulicarius,redpha1,species,redpha1,species,True
+phalarope sp.,phalarope sp.,Phalaropus sp.,phalar,spuh,phalar,spuh,False
+Common Sandpiper,Common Sandpiper,Actitis hypoleucos,comsan,species,comsan,species,True
+Spotted Sandpiper,Spotted Sandpiper,Actitis macularius,sposan,species,sposan,species,True
+Green Sandpiper,Green Sandpiper,Tringa ochropus,grnsan,species,grnsan,species,True
+Solitary Sandpiper,Solitary Sandpiper,Tringa solitaria,solsan,species,solsan,species,True
+Spotted Redshank,Spotted Redshank,Tringa erythropus,spored,species,spored,species,True
+Greater Yellowlegs,Greater Yellowlegs,Tringa melanoleuca,greyel,species,greyel,species,True
+Common Greenshank,Common Greenshank,Tringa nebularia,comgre,species,comgre,species,True
+Lesser Yellowlegs,Lesser Yellowlegs,Tringa flavipes,lesyel,species,lesyel,species,True
+Marsh Sandpiper,Marsh Sandpiper,Tringa stagnatilis,marsan,species,marsan,species,True
+Wood Sandpiper,Wood Sandpiper,Tringa glareola,woosan,species,woosan,species,True
+Common Redshank,Common Redshank,Tringa totanus,comred1,species,comred1,species,True
+Tringa sp.,Tringa sp.,Tringa sp.,tringa1,spuh,tringa1,spuh,False
+large shorebird sp.,large shorebird sp.,Scolopacidae sp. (large shorebird sp.),larsho1,spuh,larsho1,spuh,False
+Cream-colored Courser,Cream-colored Courser,Cursorius cursor,crccou1,species,crccou1,species,True
+Collared Pratincole,Collared Pratincole,Glareola pratincola,colpra,species,colpra,species,True
+shorebird sp.,shorebird sp.,Charadriiformes sp.,shoreb1,spuh,shoreb1,spuh,False
+Great Skua,Great Skua,Stercorarius skua,gresku1,species,gresku1,species,True
+South Polar Skua,South Polar Skua,Stercorarius maccormicki,sopsku1,species,sopsku1,species,True
+skua sp.,skua sp.,Stercorarius sp. (skua sp.),skua,spuh,skua,spuh,False
+Pomarine Jaeger,Pomarine Jaeger,Stercorarius pomarinus,pomjae,species,pomjae,species,True
+Parasitic Jaeger,Parasitic Jaeger,Stercorarius parasiticus,parjae,species,parjae,species,True
+Pomarine/Parasitic Jaeger,Pomarine/Parasitic Jaeger,Stercorarius pomarinus/parasiticus,y00479,slash,y00479,slash,False
+Long-tailed Jaeger,Long-tailed Jaeger,Stercorarius longicaudus,lotjae,species,lotjae,species,True
+Pomarine/Long-tailed Jaeger,Pomarine/Long-tailed Jaeger,Stercorarius pomarinus/longicaudus,y00480,slash,y00480,slash,False
+Parasitic/Long-tailed Jaeger,Parasitic/Long-tailed Jaeger,Stercorarius parasiticus/longicaudus,y00481,slash,y00481,slash,False
+jaeger sp.,jaeger sp.,Stercorarius sp. (jaeger sp.),jaeger,spuh,jaeger,spuh,False
+jaeger/skua sp.,jaeger/skua sp.,Stercorarius sp.,y00615,spuh,y00615,spuh,False
+Dovekie,Dovekie,Alle alle,doveki,species,doveki,species,True
+Common Murre,Common Murre,Uria aalge,commur,species,commur,species,True
+Razorbill,Razorbill,Alca torda,razorb,species,razorb,species,True
+large alcid sp.,large alcid sp.,Uria/Alca sp.,laralc1,spuh,laralc1,spuh,False
+Black Guillemot,Black Guillemot,Cepphus grylle,blkgui,species,blkgui,species,True
+Atlantic Puffin,Atlantic Puffin,Fratercula arctica,atlpuf,species,atlpuf,species,True
+alcid sp.,alcid sp.,Alcidae sp.,alcid,spuh,alcid,spuh,False
+Black-legged Kittiwake,Black-legged Kittiwake,Rissa tridactyla,bklkit,species,bklkit,species,True
+Sabine's Gull,Sabine's Gull,Xema sabini,sabgul,species,sabgul,species,True
+Slender-billed Gull,Slender-billed Gull,Chroicocephalus genei,slbgul1,species,slbgul1,species,True
+Bonaparte's Gull,Bonaparte's Gull,Chroicocephalus philadelphia,bongul,species,bongul,species,True
+Black-headed Gull,Black-headed Gull,Chroicocephalus ridibundus,bkhgul,species,bkhgul,species,True
+Little Gull,Little Gull,Hydrocoloeus minutus,litgul,species,litgul,species,True
+Ross's Gull,Ross's Gull,Rhodostethia rosea,rosgul,species,rosgul,species,True
+Laughing Gull,Laughing Gull,Leucophaeus atricilla,laugul,species,laugul,species,True
+Franklin's Gull,Franklin's Gull,Leucophaeus pipixcan,fragul,species,fragul,species,True
+Laughing/Franklin's Gull,Laughing/Franklin's Gull,Leucophaeus atricilla/pipixcan,y00685,slash,y00685,slash,False
+Mediterranean Gull,Mediterranean Gull,Ichthyaetus melanocephalus,medgul1,species,medgul1,species,True
+Black-headed x Mediterranean Gull (hybrid),Black-headed x Mediterranean Gull (hybrid),Chroicocephalus ridibundus x Ichthyaetus melanocephalus,x00695,hybrid,x00695,hybrid,False
+Black-headed/Mediterranean Gull,Black-headed/Mediterranean Gull,Chroicocephalus ridibundus/Ichthyaetus melanocephalus,y00779,slash,y00779,slash,False
+Pallas's Gull,Pallas's Gull,Ichthyaetus ichthyaetus,gbhgul2,species,gbhgul2,species,True
+Audouin's Gull,Audouin's Gull,Ichthyaetus audouinii,audgul1,species,audgul1,species,True
+Mew Gull,Mew Gull,Larus canus,mewgul,species,mewgul,species,True
+Ring-billed Gull,Ring-billed Gull,Larus delawarensis,ribgul,species,ribgul,species,True
+Herring Gull,Herring Gull,Larus argentatus,hergul,species,hergul,species,True
+Yellow-legged Gull,Yellow-legged Gull,Larus michahellis,yelgul1,species,yelgul1,species,True
+Herring/Yellow-legged Gull,Herring/Yellow-legged Gull,Larus argentatus/michahellis,y00848,slash,y00848,slash,False
+Caspian Gull,Caspian Gull,Larus cachinnans,casgul2,species,casgul2,species,True
+Herring x Caspian Gull (hybrid),Herring x Caspian Gull (hybrid),Larus argentatus x cachinnans,x00915,hybrid,x00915,hybrid,False
+Yellow-legged/Caspian Gull,Yellow-legged/Caspian Gull,Larus michahellis/cachinnans,y00724,slash,y00724,slash,False
+Iceland Gull,Iceland Gull,Larus glaucoides,y00478,species,y00478,species,True
+Lesser Black-backed Gull,Lesser Black-backed Gull,Larus fuscus,lbbgul,species,lbbgul,species,True
+Yellow-legged/Lesser Black-backed Gull,Yellow-legged/Lesser Black-backed Gull,Larus michahellis/fuscus,y00849,slash,y00849,slash,False
+Glaucous Gull,Glaucous Gull,Larus hyperboreus,glagul,species,glagul,species,True
+Herring x Glaucous Gull (hybrid),Herring x Glaucous Gull (hybrid),Larus argentatus x hyperboreus,nelgul,hybrid,nelgul,hybrid,False
+Great Black-backed Gull,Great Black-backed Gull,Larus marinus,gbbgul,species,gbbgul,species,True
+Glaucous x Great Black-backed Gull (hybrid),Glaucous x Great Black-backed Gull (hybrid),Larus hyperboreus x marinus,x00632,hybrid,x00632,hybrid,False
+Larus sp.,Larus sp.,Larus sp.,larus1,spuh,larus1,spuh,False
+gull sp.,gull sp.,Larinae sp.,larus,spuh,larus,spuh,False
+Bridled Tern,Bridled Tern,Onychoprion anaethetus,briter1,species,briter1,species,True
+Little Tern,Little Tern,Sternula albifrons,litter1,species,litter1,species,True
+Little/Least Tern,Little/Least Tern,Sternula albifrons/antillarum,y00661,slash,y00661,slash,False
+Gull-billed Tern,Gull-billed Tern,Gelochelidon nilotica,gubter1,species,gubter1,species,True
+Caspian Tern,Caspian Tern,Hydroprogne caspia,caster1,species,caster1,species,True
+Black Tern,Black Tern,Chlidonias niger,blkter,species,blkter,species,True
+White-winged Tern,White-winged Tern,Chlidonias leucopterus,whwter,species,whwter,species,True
+Whiskered Tern,Whiskered Tern,Chlidonias hybrida,whiter2,species,whiter2,species,True
+Chlidonias sp.,Chlidonias sp.,Chlidonias sp.,chlido1,spuh,chlido1,spuh,False
+Roseate Tern,Roseate Tern,Sterna dougallii,roster,species,roster,species,True
+Common Tern,Common Tern,Sterna hirundo,comter,species,comter,species,True
+Arctic Tern,Arctic Tern,Sterna paradisaea,arcter,species,arcter,species,True
+Common/Arctic Tern,Common/Arctic Tern,Sterna hirundo/paradisaea,y00317,slash,y00317,slash,False
+Forster's Tern,Forster's Tern,Sterna forsteri,forter,species,forter,species,True
+Sterna sp.,Sterna sp.,Sterna sp.,sterna,spuh,sterna,spuh,False
+Royal Tern,Royal Tern,Thalasseus maximus,royter1,species,royter1,species,True
+Sandwich Tern,Sandwich Tern,Thalasseus sandvicensis,santer1,species,santer1,species,True
+Elegant Tern,Elegant Tern,Thalasseus elegans,eleter1,species,eleter1,species,True
+Sandwich x Elegant Tern (hybrid),Sandwich x Elegant Tern (hybrid),Thalasseus sandvicensis x elegans,x00438,hybrid,x00438,hybrid,False
+Lesser Crested Tern,Lesser Crested Tern,Thalasseus bengalensis,lecter2,species,lecter2,species,True
+Thalasseus sp.,Thalasseus sp.,Thalasseus sp.,thalas1,spuh,thalas1,spuh,False
+large tern sp.,large tern sp.,Hydroprogne/Thalasseus sp.,larter1,spuh,larter1,spuh,False
+tern sp.,tern sp.,Sterninae sp.,tern1,spuh,tern1,spuh,False
+gull/tern sp.,gull/tern sp.,Laridae sp.,y00728,spuh,y00728,spuh,False
+Red-billed Tropicbird,Red-billed Tropicbird,Phaethon aethereus,rebtro,species,rebtro,species,True
+Red-throated Loon,Red-throated Loon,Gavia stellata,retloo,species,retloo,species,True
+Arctic Loon,Arctic Loon,Gavia arctica,arcloo,species,arcloo,species,True
+Pacific Loon,Pacific Loon,Gavia pacifica,pacloo,species,pacloo,species,True
+Common Loon,Common Loon,Gavia immer,comloo,species,comloo,species,True
+loon sp.,loon sp.,Gavia sp.,loon,spuh,loon,spuh,False
+Black-browed Albatross,Black-browed Albatross,Thalassarche melanophris,bkbalb,species,bkbalb,species,True
+Wilson's Storm-Petrel,Wilson's Storm-Petrel,Oceanites oceanicus,wispet,species,wispet,species,True
+European Storm-Petrel,European Storm-Petrel,Hydrobates pelagicus,bripet,species,bripet,species,True
+Leach's Storm-Petrel,Leach's Storm-Petrel,Oceanodroma leucorhoa,lcspet,species,lcspet,species,True
+Leach's/Townsend's Storm-Petrel (dark-rumped),Leach's/Townsend's Storm-Petrel (dark-rumped),Oceanodroma leucorhoa/socorroensis (dark-rumped),leastp1,form,leastp1,species,True
+Band-rumped Storm-Petrel,Band-rumped Storm-Petrel,Oceanodroma castro,barpet,species,barpet,species,True
+Oceanodroma sp.,Oceanodroma sp.,Oceanodroma sp.,oceano1,spuh,oceano1,spuh,False
+storm-petrel sp. (white-rumped),storm-petrel sp. (white-rumped),Oceanitidae/Hydrobatidae sp. (white-rumped),storm-2,spuh,storm-2,spuh,False
+storm-petrel sp.,storm-petrel sp.,Oceanitidae/Hydrobatidae sp.,stopet,spuh,stopet,spuh,False
+Northern Fulmar,Northern Fulmar,Fulmarus glacialis,norful,species,norful,species,True
+Fea's Petrel,Fea's Petrel,Pterodroma feae,feapet1,species,feapet1,species,True
+Zino's/Fea's Petrel,Zino's/Fea's Petrel,Pterodroma madeira/feae,y00609,slash,y00609,slash,False
+Bulwer's Petrel,Bulwer's Petrel,Bulweria bulwerii,bulpet,species,bulpet,species,True
+Cory's Shearwater,Cory's Shearwater,Calonectris diomedea,corshe,species,corshe,species,True
+Great Shearwater,Great Shearwater,Ardenna gravis,greshe,species,greshe,species,True
+Sooty Shearwater,Sooty Shearwater,Ardenna grisea,sooshe,species,sooshe,species,True
+Manx Shearwater,Manx Shearwater,Puffinus puffinus,manshe,species,manshe,species,True
+Yelkouan Shearwater,Yelkouan Shearwater,Puffinus yelkouan,levshe1,species,levshe1,species,True
+Balearic Shearwater,Balearic Shearwater,Puffinus mauretanicus,balshe1,species,balshe1,species,True
+Yelkouan/Balearic Shearwater,Yelkouan/Balearic Shearwater,Puffinus yelkouan/mauretanicus,medshe1,slash,medshe1,slash,False
+Barolo Shearwater,Barolo Shearwater,Puffinus baroli,litshe1,species,litshe1,species,True
+black-and-white shearwater sp.,black-and-white shearwater sp.,Puffinus sp. (black-and-white shearwater sp.),bawshe1,spuh,bawshe1,spuh,False
+shearwater sp.,shearwater sp.,Procellariidae sp. (shearwater sp.),shearw,spuh,shearw,spuh,False
+Black Stork,Black Stork,Ciconia nigra,blasto1,species,blasto1,species,True
+White Stork,White Stork,Ciconia ciconia,whisto1,species,whisto1,species,True
+Ciconia sp.,Ciconia sp.,Ciconia sp.,ciconi1,spuh,ciconi1,spuh,False
+Marabou Stork,Marabou Stork,Leptoptilos crumenifer,marsto1,species,marsto1,species,True
+Yellow-billed Stork,Yellow-billed Stork,Mycteria ibis,yebsto1,species,yebsto1,species,True
+Brown Booby,Brown Booby,Sula leucogaster,brnboo,species,brnboo,species,True
+Northern Gannet,Northern Gannet,Morus bassanus,norgan,species,norgan,species,True
+sulid sp.,sulid sp.,Sulidae sp.,sulid,spuh,sulid,spuh,False
+Pygmy Cormorant,Pygmy Cormorant,Microcarbo pygmaeus,pygcor2,species,pygcor2,species,True
+Great Cormorant,Great Cormorant,Phalacrocorax carbo,grecor,species,grecor,species,True
+European Shag,European Shag,Phalacrocorax aristotelis,eursha1,species,eursha1,species,True
+Great Cormorant/European Shag,Great Cormorant/European Shag,Phalacrocorax carbo/aristotelis,y00769,slash,y00769,slash,False
+cormorant sp.,cormorant sp.,Phalacrocoracidae sp.,cormor1,spuh,cormor1,spuh,False
+Great White Pelican,Great White Pelican,Pelecanus onocrotalus,grwpel1,species,grwpel1,species,True
+Pink-backed Pelican,Pink-backed Pelican,Pelecanus rufescens,pibpel1,species,pibpel1,species,True
+Dalmatian Pelican,Dalmatian Pelican,Pelecanus crispus,dalpel1,species,dalpel1,species,True
+pelican sp.,pelican sp.,Pelecanus sp.,pelica1,spuh,pelica1,spuh,False
+Great Bittern,Great Bittern,Botaurus stellaris,grebit1,species,grebit1,species,True
+Little Bittern,Little Bittern,Ixobrychus minutus,litbit1,species,litbit1,species,True
+Dwarf Bittern,Dwarf Bittern,Ixobrychus sturmii,dwabit1,species,dwabit1,species,True
+Gray Heron,Gray Heron,Ardea cinerea,graher1,species,graher1,species,True
+Purple Heron,Purple Heron,Ardea purpurea,purher1,species,purher1,species,True
+Gray/Purple Heron,Gray/Purple Heron,Ardea cinerea/purpurea,y01021,slash,y01021,slash,False
+Great Egret,Great Egret,Ardea alba,greegr,species,greegr,species,True
+Ardea sp.,Ardea sp.,Ardea sp.,ardea1,spuh,ardea1,spuh,False
+Little Egret,Little Egret,Egretta garzetta,litegr,species,litegr,species,True
+Western Reef-Heron,Western Reef-Heron,Egretta gularis,werher,species,werher,species,True
+Little Egret x Western Reef-Heron (hybrid),Little Egret x Western Reef-Heron (hybrid),Egretta garzetta x gularis,x00656,hybrid,x00656,hybrid,False
+Little Egret/Western Reef-Heron,Little Egret/Western Reef-Heron,Egretta garzetta/gularis,y00835,slash,y00835,slash,False
+Cattle Egret,Cattle Egret,Bubulcus ibis,categr,species,categr,species,True
+white egret sp.,white egret sp.,Ardea/Egretta/Bubulcus sp.,whiegr1,spuh,whiegr1,spuh,False
+Squacco Heron,Squacco Heron,Ardeola ralloides,squher1,species,squher1,species,True
+Black-crowned Night-Heron,Black-crowned Night-Heron,Nycticorax nycticorax,bcnher,species,bcnher,species,True
+heron sp.,heron sp.,Ardeidae sp.,heron1,spuh,heron1,spuh,False
+Glossy Ibis,Glossy Ibis,Plegadis falcinellus,gloibi,species,gloibi,species,True
+Glossy/White-faced Ibis,Glossy/White-faced Ibis,Plegadis falcinellus/chihi,plegad,slash,plegad,slash,False
+African Sacred Ibis,African Sacred Ibis,Threskiornis aethiopicus,sacibi2,species,sacibi2,species,True
+Northern Bald Ibis,Northern Bald Ibis,Geronticus eremita,waldra1,species,waldra1,species,True
+Eurasian Spoonbill,Eurasian Spoonbill,Platalea leucorodia,eurspo1,species,eurspo1,species,True
+African Spoonbill,African Spoonbill,Platalea alba,afrspo1,species,afrspo1,species,True
+Osprey,Osprey,Pandion haliaetus,osprey,species,osprey,species,True
+Black-winged Kite,Black-winged Kite,Elanus caeruleus,bkskit1,species,bkskit1,species,True
+Bearded Vulture,Bearded Vulture,Gypaetus barbatus,lammer1,species,lammer1,species,True
+Egyptian Vulture,Egyptian Vulture,Neophron percnopterus,egyvul1,species,egyvul1,species,True
+European Honey-buzzard,European Honey-buzzard,Pernis apivorus,euhbuz1,species,euhbuz1,species,True
+Cinereous Vulture,Cinereous Vulture,Aegypius monachus,cinvul1,species,cinvul1,species,True
+White-backed Vulture,White-backed Vulture,Gyps africanus,whbvul1,species,whbvul1,species,True
+Rüppell's Griffon,Rüppell's Griffon,Gyps rueppelli,ruegri1,species,ruegri1,species,True
+Eurasian Griffon,Eurasian Griffon,Gyps fulvus,eurgri1,species,eurgri1,species,True
+old world vulture sp.,old world vulture sp.,Accipitridae sp. (old world vulture sp.),olwvul1,spuh,olwvul1,spuh,False
+Bateleur,Bateleur,Terathopius ecaudatus,batele1,species,batele1,species,True
+Short-toed Snake-Eagle,Short-toed Snake-Eagle,Circaetus gallicus,shteag1,species,shteag1,species,True
+Lesser Spotted Eagle,Lesser Spotted Eagle,Clanga pomarina,leseag1,species,leseag1,species,True
+Greater Spotted Eagle,Greater Spotted Eagle,Clanga clanga,grseag1,species,grseag1,species,True
+Lesser x Greater Spotted Eagle (hybrid),Lesser x Greater Spotted Eagle (hybrid),Clanga pomarina x clanga,x00843,hybrid,x00843,hybrid,False
+Lesser/Greater Spotted Eagle,Lesser/Greater Spotted Eagle,Clanga pomarina/clanga,y00718,slash,y00718,slash,False
+Booted Eagle,Booted Eagle,Hieraaetus pennatus,booeag1,species,booeag1,species,True
+Steppe Eagle,Steppe Eagle,Aquila nipalensis,steeag1,species,steeag1,species,True
+Spanish Eagle,Spanish Eagle,Aquila adalberti,spaeag1,species,spaeag1,species,True
+Golden Eagle,Golden Eagle,Aquila chrysaetos,goleag,species,goleag,species,True
+Bonelli's Eagle,Bonelli's Eagle,Aquila fasciata,boneag2,species,boneag2,species,True
+Aquila sp.,Aquila sp.,Aquila sp.,aquila1,spuh,aquila1,spuh,False
+Eurasian Marsh-Harrier,Eurasian Marsh-Harrier,Circus aeruginosus,wemhar1,species,wemhar1,species,True
+Hen Harrier,Hen Harrier,Circus cyaneus,norhar1,species,norhar1,species,True
+Pallid Harrier,Pallid Harrier,Circus macrourus,palhar1,species,palhar1,species,True
+Montagu's Harrier,Montagu's Harrier,Circus pygargus,monhar1,species,monhar1,species,True
+Hen/Montagu's Harrier,Hen/Montagu's Harrier,Circus cyaneus/pygargus,y00840,slash,y00840,slash,False
+harrier sp.,harrier sp.,Circus sp.,harrie1,spuh,harrie1,spuh,False
+Eurasian Sparrowhawk,Eurasian Sparrowhawk,Accipiter nisus,eurspa1,species,eurspa1,species,True
+Northern Goshawk,Northern Goshawk,Accipiter gentilis,norgos,species,norgos,species,True
+Accipiter sp.,Accipiter sp.,Accipiter sp.,accipi,spuh,accipi,spuh,False
+Red Kite,Red Kite,Milvus milvus,redkit1,species,redkit1,species,True
+Black Kite,Black Kite,Milvus migrans,blakit1,species,blakit1,species,True
+Red/Black Kite,Red/Black Kite,Milvus milvus/migrans,y00611,slash,y00611,slash,False
+White-tailed Eagle,White-tailed Eagle,Haliaeetus albicilla,whteag,species,whteag,species,True
+Harris's Hawk,Harris's Hawk,Parabuteo unicinctus,hrshaw,species,hrshaw,species,True
+Common Buzzard,Common Buzzard,Buteo buteo,combuz1,species,combuz1,species,True
+Long-legged Buzzard,Long-legged Buzzard,Buteo rufinus,lolbuz1,species,lolbuz1,species,True
+Common x Long-legged Buzzard (hybrid),Common x Long-legged Buzzard (hybrid),Buteo buteo x rufinus,x00766,hybrid,x00766,hybrid,False
+Common/Long-legged Buzzard,Common/Long-legged Buzzard,Buteo buteo/rufinus,y01024,slash,y01024,slash,False
+Buteo sp.,Buteo sp.,Buteo sp.,buteo,spuh,buteo,spuh,False
+Buteo/eagle sp.,Buteo/eagle sp.,Buteo/eagle sp.,y00221,spuh,y00221,spuh,False
+hawk sp.,hawk sp.,Accipitridae sp. (hawk sp.),hawk,spuh,hawk,spuh,False
+eagle sp.,eagle sp.,Accipitridae sp. (eagle sp.),eagle1,spuh,eagle1,spuh,False
+Barn Owl,Barn Owl,Tyto alba,brnowl,species,brnowl,species,True
+Eurasian Scops-Owl,Eurasian Scops-Owl,Otus scops,eursco1,species,eursco1,species,True
+scops-owl sp.,scops-owl sp.,Otus sp.,otus1,spuh,otus1,spuh,False
+Eurasian Eagle-Owl,Eurasian Eagle-Owl,Bubo bubo,eueowl1,species,eueowl1,species,True
+Little Owl,Little Owl,Athene noctua,litowl1,species,litowl1,species,True
+Tawny Owl,Tawny Owl,Strix aluco,tawowl1,species,tawowl1,species,True
+Long-eared Owl,Long-eared Owl,Asio otus,loeowl,species,loeowl,species,True
+Short-eared Owl,Short-eared Owl,Asio flammeus,sheowl,species,sheowl,species,True
+Long-eared/Short-eared Owl,Long-eared/Short-eared Owl,Asio otus/flammeus,y00673,slash,y00673,slash,False
+Asio sp.,Asio sp.,Asio sp.,asio1,spuh,asio1,spuh,False
+Boreal Owl,Boreal Owl,Aegolius funereus,borowl,species,borowl,species,True
+owl sp.,owl sp.,Strigiformes sp.,owl1,spuh,owl1,spuh,False
+Eurasian Hoopoe,Eurasian Hoopoe,Upupa epops,hoopoe,species,hoopoe,species,True
+Common Kingfisher,Common Kingfisher,Alcedo atthis,comkin1,species,comkin1,species,True
+Belted Kingfisher,Belted Kingfisher,Megaceryle alcyon,belkin1,species,belkin1,species,True
+Blue-cheeked Bee-eater,Blue-cheeked Bee-eater,Merops persicus,bcbeat1,species,bcbeat1,species,True
+European Bee-eater,European Bee-eater,Merops apiaster,eubeat1,species,eubeat1,species,True
+European Roller,European Roller,Coracias garrulus,eurrol1,species,eurrol1,species,True
+Abyssinian Roller,Abyssinian Roller,Coracias abyssinicus,abyrol2,species,abyrol2,species,True
+Eurasian Wryneck,Eurasian Wryneck,Jynx torquilla,eurwry,species,eurwry,species,True
+Middle Spotted Woodpecker,Middle Spotted Woodpecker,Dendrocoptes medius,miswoo1,species,miswoo1,species,True
+White-backed Woodpecker,White-backed Woodpecker,Dendrocopos leucotos,whbwoo1,species,whbwoo1,species,True
+Great Spotted Woodpecker,Great Spotted Woodpecker,Dendrocopos major,grswoo,species,grswoo,species,True
+Dendrocopos sp.,Dendrocopos sp.,Dendrocopos sp.,dendro1,spuh,dendro1,spuh,False
+Lesser Spotted Woodpecker,Lesser Spotted Woodpecker,Dryobates minor,leswoo1,species,leswoo1,species,True
+Eurasian Green Woodpecker,Eurasian Green Woodpecker,Picus viridis,eugwoo2,species,eugwoo2,species,True
+Iberian Green Woodpecker,Iberian Green Woodpecker,Picus sharpei,grnwoo3,species,grnwoo3,species,True
+Picus sp.,Picus sp.,Picus sp.,picus1,spuh,picus1,spuh,False
+Black Woodpecker,Black Woodpecker,Dryocopus martius,blawoo1,species,blawoo1,species,True
+woodpecker sp.,woodpecker sp.,Picidae sp.,woodpe1,spuh,woodpe1,spuh,False
+Lesser Kestrel,Lesser Kestrel,Falco naumanni,leskes1,species,leskes1,species,True
+Eurasian Kestrel,Eurasian Kestrel,Falco tinnunculus,eurkes,species,eurkes,species,True
+Lesser/Eurasian Kestrel,Lesser/Eurasian Kestrel,Falco naumanni/tinnunculus,y00613,slash,y00613,slash,False
+Red-footed Falcon,Red-footed Falcon,Falco vespertinus,reffal1,species,reffal1,species,True
+Eleonora's Falcon,Eleonora's Falcon,Falco eleonorae,elefal1,species,elefal1,species,True
+Merlin,Merlin,Falco columbarius,merlin,species,merlin,species,True
+Eurasian Hobby,Eurasian Hobby,Falco subbuteo,eurhob,species,eurhob,species,True
+Peregrine Falcon,Peregrine Falcon,Falco peregrinus,perfal,species,perfal,species,True
+large falcon sp.,large falcon sp.,Falco sp. (large falcon sp.),larfal,spuh,larfal,spuh,False
+small falcon sp.,small falcon sp.,Falco sp. (small falcon sp.),smafal,spuh,smafal,spuh,False
+falcon sp.,falcon sp.,Falco sp.,falcon,spuh,falcon,spuh,False
+diurnal raptor sp.,diurnal raptor sp.,Accipitriformes/Falconiformes sp.,diurap1,spuh,diurap1,spuh,False
+Cockatiel,Cockatiel,Nymphicus hollandicus,cockat,species,cockat,species,True
+Cockatiel (Domestic type),Cockatiel (Domestic type),Nymphicus hollandicus (Domestic type),cockat1,domestic,cockat1,domestic,False
+Rose-ringed Parakeet,Rose-ringed Parakeet,Psittacula krameri,rorpar,species,rorpar,species,True
+Plum-headed Parakeet,Plum-headed Parakeet,Psittacula cyanocephala,plhpar1,species,plhpar1,species,True
+Psittacula sp.,Psittacula sp.,Psittacula sp.,psitta1,spuh,psitta1,spuh,False
+Budgerigar (Domestic type),Budgerigar (Domestic type),Melopsittacus undulatus (Domestic type),budger1,domestic,budger1,domestic,False
+Rosy-faced Lovebird,Rosy-faced Lovebird,Agapornis roseicollis,peflov,species,peflov,species,True
+Fischer's Lovebird,Fischer's Lovebird,Agapornis fischeri,fislov1,species,fislov1,species,True
+Yellow-collared Lovebird,Yellow-collared Lovebird,Agapornis personatus,yeclov,species,yeclov,species,True
+lovebird sp.,lovebird sp.,Agapornis sp.,lovebi1,spuh,lovebi1,spuh,False
+Senegal Parrot,Senegal Parrot,Poicephalus senegalus,senpar,species,senpar,species,True
+Monk Parakeet,Monk Parakeet,Myiopsitta monachus,monpar,species,monpar,species,True
+Burrowing Parakeet,Burrowing Parakeet,Cyanoliseus patagonus,burpar,species,burpar,species,True
+Nanday Parakeet,Nanday Parakeet,Aratinga nenday,bkhpar,species,bkhpar,species,True
+Blue-crowned Parakeet,Blue-crowned Parakeet,Thectocercus acuticaudatus,bucpar,species,bucpar,species,True
+Mitred Parakeet,Mitred Parakeet,Psittacara mitratus,mitpar,species,mitpar,species,True
+Mitred/Red-masked Parakeet,Mitred/Red-masked Parakeet,Psittacara mitratus/erythrogenys,y00794,slash,y00794,slash,False
+large parakeet sp. (former Aratinga sp.),large parakeet sp. (former Aratinga sp.),Eupsittula/Aratinga/Thectocercus/Psittacara sp.,aratin,spuh,aratin,spuh,False
+parakeet sp.,parakeet sp.,Psittaciformes sp. (parakeet sp.),parake,spuh,parake,spuh,False
+parrot sp.,parrot sp.,Psittaciformes sp. (parrot sp.),parrot,spuh,parrot,spuh,False
+Eurasian Golden Oriole,Eurasian Golden Oriole,Oriolus oriolus,eugori2,species,eugori2,species,True
+Black-crowned Tchagra,Black-crowned Tchagra,Tchagra senegalus,bkctch1,species,bkctch1,species,True
+Red-backed Shrike,Red-backed Shrike,Lanius collurio,rebshr1,species,rebshr1,species,True
+Isabelline Shrike,Isabelline Shrike,Lanius isabellinus,isashr1,species,isashr1,species,True
+Brown Shrike,Brown Shrike,Lanius cristatus,brnshr,species,brnshr,species,True
+Iberian Gray Shrike,Iberian Gray Shrike,Lanius meridionalis,ibgshr1,species,ibgshr1,species,True
+Great Gray Shrike,Great Gray Shrike,Lanius excubitor,norshr1,species,norshr1,species,True
+Iberian Gray/Great Gray Shrike,Iberian Gray/Great Gray Shrike,Lanius meridionalis/excubitor,y01040,slash,y01040,slash,False
+Woodchat Shrike,Woodchat Shrike,Lanius senator,wooshr1,species,wooshr1,species,True
+shrike sp.,shrike sp.,Lanius sp.,shrike,spuh,shrike,spuh,False
+Eurasian Jay,Eurasian Jay,Garrulus glandarius,eurjay1,species,eurjay1,species,True
+jay sp.,jay sp.,Corvidae sp. (jay sp.),jay1,spuh,jay1,spuh,False
+Iberian Magpie,Iberian Magpie,Cyanopica cooki,azwmag3,species,azwmag3,species,True
+Eurasian Magpie,Eurasian Magpie,Pica pica,eurmag1,species,eurmag1,species,True
+Eurasian Nutcracker,Eurasian Nutcracker,Nucifraga caryocatactes,eurnut1,species,eurnut1,species,True
+Red-billed Chough,Red-billed Chough,Pyrrhocorax pyrrhocorax,rebcho1,species,rebcho1,species,True
+Yellow-billed Chough,Yellow-billed Chough,Pyrrhocorax graculus,yebcho1,species,yebcho1,species,True
+Red-billed/Yellow-billed Chough,Red-billed/Yellow-billed Chough,Pyrrhocorax pyrrhocorax/graculus,y00895,slash,y00895,slash,False
+Eurasian Jackdaw,Eurasian Jackdaw,Corvus monedula,eurjac,species,eurjac,species,True
+House Crow,House Crow,Corvus splendens,houcro1,species,houcro1,species,True
+Rook,Rook,Corvus frugilegus,rook1,species,rook1,species,True
+Carrion Crow,Carrion Crow,Corvus corone,carcro1,species,carcro1,species,True
+Hooded Crow,Hooded Crow,Corvus cornix,hoocro1,species,hoocro1,species,True
+crow sp.,crow sp.,Corvus sp. (crow sp.),crow,spuh,crow,spuh,False
+Pied Crow,Pied Crow,Corvus albus,piecro1,species,piecro1,species,True
+Brown-necked Raven,Brown-necked Raven,Corvus ruficollis,brnrav1,species,brnrav1,species,True
+Common Raven,Common Raven,Corvus corax,comrav,species,comrav,species,True
+crow/raven sp.,crow/raven sp.,Corvus sp.,y00639,spuh,y00639,spuh,False
+Coal Tit,Coal Tit,Periparus ater,coatit2,species,coatit2,species,True
+Crested Tit,Crested Tit,Lophophanes cristatus,cretit2,species,cretit2,species,True
+Marsh Tit,Marsh Tit,Poecile palustris,martit2,species,martit2,species,True
+Eurasian Blue Tit,Eurasian Blue Tit,Cyanistes caeruleus,blutit,species,blutit,species,True
+African Blue Tit,African Blue Tit,Cyanistes teneriffae,afbtit2,species,afbtit2,species,True
+Great Tit,Great Tit,Parus major,gretit1,species,gretit1,species,True
+Parid sp.,Parid sp.,Paridae sp.,parid1,spuh,parid1,spuh,False
+Eurasian Penduline-Tit,Eurasian Penduline-Tit,Remiz pendulinus,euptit1,species,euptit1,species,True
+Bar-tailed Lark,Bar-tailed Lark,Ammomanes cinctura,batlar1,species,batlar1,species,True
+Horned Lark,Horned Lark,Eremophila alpestris,horlar,species,horlar,species,True
+Greater Short-toed Lark,Greater Short-toed Lark,Calandrella brachydactyla,gstlar1,species,gstlar1,species,True
+Calandra Lark,Calandra Lark,Melanocorypha calandra,callar1,species,callar1,species,True
+Dupont's Lark,Dupont's Lark,Chersophilus duponti,duplar1,species,duplar1,species,True
+Lesser Short-toed Lark,Lesser Short-toed Lark,Alaudala rufescens,lstlar3,species,lstlar3,species,True
+Greater/Asian/Lesser Short-toed Lark,Greater/Asian/Lesser Short-toed Lark,Calandrella brachydactyla/Alaudala cheleensis/rufescens,y00675,slash,y00675,slash,False
+Wood Lark,Wood Lark,Lullula arborea,woolar1,species,woolar1,species,True
+Eurasian Skylark,Eurasian Skylark,Alauda arvensis,skylar,species,skylar,species,True
+Thekla's Lark,Thekla's Lark,Galerida theklae,thelar1,species,thelar1,species,True
+Crested Lark,Crested Lark,Galerida cristata,crelar2,species,crelar2,species,True
+Thekla's/Crested Lark,Thekla's/Crested Lark,Galerida theklae/cristata,y00980,slash,y00980,slash,False
+Crested/Maghreb Lark,Crested/Maghreb Lark,Galerida cristata/macrorhyncha,crelar1,slash,crelar1,slash,False
+Thekla's/Crested/Maghreb Lark,Thekla's/Crested/Maghreb Lark,Galerida theklae/cristata/macrorhyncha,y00655,slash,y00655,slash,False
+lark sp.,lark sp.,Alaudidae sp.,lark1,spuh,lark1,spuh,False
+Bearded Reedling,Bearded Reedling,Panurus biarmicus,bearee1,species,bearee1,species,True
+Zitting Cisticola,Zitting Cisticola,Cisticola juncidis,zitcis1,species,zitcis1,species,True
+Booted/Sykes's Warbler,Booted/Sykes's Warbler,Iduna caligata/rama,y00643,slash,y00643,slash,False
+Eastern Olivaceous Warbler,Eastern Olivaceous Warbler,Iduna pallida,eaowar1,species,eaowar1,species,True
+Western Olivaceous Warbler,Western Olivaceous Warbler,Iduna opaca,weowar1,species,weowar1,species,True
+Eastern/Western Olivaceous Warbler,Eastern/Western Olivaceous Warbler,Iduna pallida/opaca,y00623,slash,y00623,slash,False
+Iduna sp.,Iduna sp.,Iduna sp.,iduna1,spuh,iduna1,spuh,False
+Melodious Warbler,Melodious Warbler,Hippolais polyglotta,melwar1,species,melwar1,species,True
+Icterine Warbler,Icterine Warbler,Hippolais icterina,ictwar1,species,ictwar1,species,True
+Melodious/Icterine Warbler,Melodious/Icterine Warbler,Hippolais polyglotta/icterina,y00644,slash,y00644,slash,False
+Hippolais sp.,Hippolais sp.,Hippolais sp.,hippol1,spuh,hippol1,spuh,False
+Aquatic Warbler,Aquatic Warbler,Acrocephalus paludicola,aquwar1,species,aquwar1,species,True
+Moustached Warbler,Moustached Warbler,Acrocephalus melanopogon,mouwar1,species,mouwar1,species,True
+Sedge Warbler,Sedge Warbler,Acrocephalus schoenobaenus,sedwar1,species,sedwar1,species,True
+Paddyfield Warbler,Paddyfield Warbler,Acrocephalus agricola,padwar1,species,padwar1,species,True
+Blyth's Reed Warbler,Blyth's Reed Warbler,Acrocephalus dumetorum,blrwar1,species,blrwar1,species,True
+Marsh Warbler,Marsh Warbler,Acrocephalus palustris,marwar3,species,marwar3,species,True
+Eurasian Reed Warbler,Eurasian Reed Warbler,Acrocephalus scirpaceus,eurwar1,species,eurwar1,species,True
+Marsh Warbler/Eurasian Reed Warbler,Marsh Warbler/Eurasian Reed Warbler,Acrocephalus palustris/scirpaceus,y00624,slash,y00624,slash,False
+African Reed Warbler,African Reed Warbler,Acrocephalus baeticatus,afrwar1,species,afrwar1,species,True
+Eurasian Reed/African Reed Warbler,Eurasian Reed/African Reed Warbler,Acrocephalus scirpaceus/baeticatus,y01047,slash,y01047,slash,False
+Great Reed Warbler,Great Reed Warbler,Acrocephalus arundinaceus,grrwar1,species,grrwar1,species,True
+Eurasian/Great Reed Warbler,Eurasian/Great Reed Warbler,Acrocephalus scirpaceus/arundinaceus,y00667,slash,y00667,slash,False
+Acrocephalus sp.,Acrocephalus sp.,Acrocephalus sp.,acroce1,spuh,acroce1,spuh,False
+Iduna/Hippolais/Acrocephalus sp.,Iduna/Hippolais/Acrocephalus sp.,Iduna/Hippolais/Acrocephalus sp.,y00908,spuh,y00908,spuh,False
+River Warbler,River Warbler,Locustella fluviatilis,eurwar2,species,eurwar2,species,True
+Savi's Warbler,Savi's Warbler,Locustella luscinioides,savwar1,species,savwar1,species,True
+Common Grasshopper-Warbler,Common Grasshopper-Warbler,Locustella naevia,cogwar1,species,cogwar1,species,True
+Locustella sp.,Locustella sp.,Locustella sp.,locust2,spuh,locust2,spuh,False
+Bank Swallow,Bank Swallow,Riparia riparia,banswa,species,banswa,species,True
+Eurasian Crag-Martin,Eurasian Crag-Martin,Ptyonoprogne rupestris,eurcrm1,species,eurcrm1,species,True
+Barn Swallow,Barn Swallow,Hirundo rustica,barswa,species,barswa,species,True
+Red-rumped Swallow,Red-rumped Swallow,Cecropis daurica,rerswa1,species,rerswa1,species,True
+Common House-Martin,Common House-Martin,Delichon urbicum,cohmar1,species,cohmar1,species,True
+Barn Swallow x Common House-Martin (hybrid),Barn Swallow x Common House-Martin (hybrid),Hirundo rustica x Delichon urbicum,x00659,hybrid,x00659,hybrid,False
+swallow sp.,swallow sp.,Hirundinidae sp.,swallo,spuh,swallo,spuh,False
+Red-vented Bulbul,Red-vented Bulbul,Pycnonotus cafer,revbul,species,revbul,species,True
+Common Bulbul,Common Bulbul,Pycnonotus barbatus,combul2,species,combul2,species,True
+Wood Warbler,Wood Warbler,Phylloscopus sibilatrix,woowar,species,woowar,species,True
+Western Bonelli's Warbler,Western Bonelli's Warbler,Phylloscopus bonelli,webwar1,species,webwar1,species,True
+Yellow-browed Warbler,Yellow-browed Warbler,Phylloscopus inornatus,yebwar3,species,yebwar3,species,True
+Hume's Warbler,Hume's Warbler,Phylloscopus humei,humwar1,species,humwar1,species,True
+Pallas's Leaf Warbler,Pallas's Leaf Warbler,Phylloscopus proregulus,palwar5,species,palwar5,species,True
+Radde's Warbler,Radde's Warbler,Phylloscopus schwarzi,radwar1,species,radwar1,species,True
+Dusky Warbler,Dusky Warbler,Phylloscopus fuscatus,duswar,species,duswar,species,True
+Willow Warbler,Willow Warbler,Phylloscopus trochilus,wlwwar,species,wlwwar,species,True
+Canary Islands Chiffchaff,Canary Islands Chiffchaff,Phylloscopus canariensis,caichi1,species,caichi1,species,True
+Common Chiffchaff,Common Chiffchaff,Phylloscopus collybita,comchi1,species,comchi1,species,True
+Willow Warbler/Common Chiffchaff,Willow Warbler/Common Chiffchaff,Phylloscopus trochilus/collybita,y00812,slash,y00812,slash,False
+Iberian Chiffchaff,Iberian Chiffchaff,Phylloscopus ibericus,ibechi2,species,ibechi2,species,True
+Willow Warbler/Common Chiffchaff/Iberian Chiffchaff,Willow Warbler/Common Chiffchaff/Iberian Chiffchaff,Phylloscopus trochilus/collybita/ibericus,y01045,slash,y01045,slash,False
+Common/Iberian Chiffchaff,Common/Iberian Chiffchaff,Phylloscopus collybita/ibericus,y00813,slash,y00813,slash,False
+Phylloscopus sp.,Phylloscopus sp.,Phylloscopus sp.,phyllo1,spuh,phyllo1,spuh,False
+Cetti's Warbler,Cetti's Warbler,Cettia cetti,cetwar1,species,cetwar1,species,True
+Long-tailed Tit,Long-tailed Tit,Aegithalos caudatus,lottit1,species,lottit1,species,True
+Eurasian Blackcap,Eurasian Blackcap,Sylvia atricapilla,blackc1,species,blackc1,species,True
+Garden Warbler,Garden Warbler,Sylvia borin,garwar1,species,garwar1,species,True
+African Desert Warbler,African Desert Warbler,Sylvia deserti,afdwar1,species,afdwar1,species,True
+Asian Desert Warbler,Asian Desert Warbler,Sylvia nana,asdwar1,species,asdwar1,species,True
+Barred Warbler,Barred Warbler,Sylvia nisoria,barwar1,species,barwar1,species,True
+Lesser Whitethroat,Lesser Whitethroat,Sylvia curruca,leswhi4,species,leswhi4,species,True
+Western Orphean Warbler,Western Orphean Warbler,Sylvia hortensis,weowar2,species,weowar2,species,True
+Tristram's Warbler,Tristram's Warbler,Sylvia deserticola,triwar1,species,triwar1,species,True
+Subalpine Warbler,Subalpine Warbler,Sylvia cantillans,subwar1,species,subwar1,species,True
+Moltoni's Warbler,Moltoni's Warbler,Sylvia subalpina,subwar8,species,subwar8,species,True
+Subalpine/Moltoni's Warbler,Subalpine/Moltoni's Warbler,Sylvia cantillans/subalpina,y00909,slash,y00909,slash,False
+Sardinian Warbler,Sardinian Warbler,Sylvia melanocephala,sarwar1,species,sarwar1,species,True
+Greater Whitethroat,Greater Whitethroat,Sylvia communis,grewhi1,species,grewhi1,species,True
+Spectacled Warbler,Spectacled Warbler,Sylvia conspicillata,spewar2,species,spewar2,species,True
+Marmora's Warbler,Marmora's Warbler,Sylvia sarda,marwar1,species,marwar1,species,True
+Dartford Warbler,Dartford Warbler,Sylvia undata,darwar1,species,darwar1,species,True
+Balearic Warbler,Balearic Warbler,Sylvia balearica,balwar1,species,balwar1,species,True
+Sylvia sp.,Sylvia sp.,Sylvia sp.,sylvia1,spuh,sylvia1,spuh,False
+Red-billed Leiothrix,Red-billed Leiothrix,Leiothrix lutea,reblei,species,reblei,species,True
+Goldcrest,Goldcrest,Regulus regulus,goldcr1,species,goldcr1,species,True
+Common Firecrest,Common Firecrest,Regulus ignicapilla,firecr1,species,firecr1,species,True
+Goldcrest/Common Firecrest,Goldcrest/Common Firecrest,Regulus regulus/ignicapilla,y00622,slash,y00622,slash,False
+kinglet sp.,kinglet sp.,Regulus sp.,kingle,spuh,kingle,spuh,False
+Wallcreeper,Wallcreeper,Tichodroma muraria,wallcr1,species,wallcr1,species,True
+Eurasian Nuthatch,Eurasian Nuthatch,Sitta europaea,eurnut2,species,eurnut2,species,True
+Eurasian Treecreeper,Eurasian Treecreeper,Certhia familiaris,eurtre1,species,eurtre1,species,True
+Short-toed Treecreeper,Short-toed Treecreeper,Certhia brachydactyla,shttre1,species,shttre1,species,True
+Eurasian/Short-toed Treecreeper,Eurasian/Short-toed Treecreeper,Certhia familiaris/brachydactyla,y00640,slash,y00640,slash,False
+treecreeper sp.,treecreeper sp.,Certhia sp.,certhi1,spuh,certhi1,spuh,False
+Eurasian Wren,Eurasian Wren,Troglodytes troglodytes,winwre4,species,winwre4,species,True
+White-throated Dipper,White-throated Dipper,Cinclus cinclus,whtdip1,species,whtdip1,species,True
+European Starling,European Starling,Sturnus vulgaris,eursta,species,eursta,species,True
+Spotless Starling,Spotless Starling,Sturnus unicolor,sposta1,species,sposta1,species,True
+European/Spotless Starling,European/Spotless Starling,Sturnus vulgaris/unicolor,y00626,slash,y00626,slash,False
+Rosy Starling,Rosy Starling,Pastor roseus,rossta2,species,rossta2,species,True
+Common Myna,Common Myna,Acridotheres tristis,commyn,species,commyn,species,True
+Lamprotornis sp.,Lamprotornis sp.,Lamprotornis sp.,glossy1,spuh,glossy1,spuh,False
+Mistle Thrush,Mistle Thrush,Turdus viscivorus,misthr1,species,misthr1,species,True
+Song Thrush,Song Thrush,Turdus philomelos,sonthr1,species,sonthr1,species,True
+Redwing,Redwing,Turdus iliacus,redwin,species,redwin,species,True
+Eurasian Blackbird,Eurasian Blackbird,Turdus merula,eurbla,species,eurbla,species,True
+Fieldfare,Fieldfare,Turdus pilaris,fieldf,species,fieldf,species,True
+Ring Ouzel,Ring Ouzel,Turdus torquatus,rinouz1,species,rinouz1,species,True
+Black-throated Thrush,Black-throated Thrush,Turdus atrogularis,datthr1,species,datthr1,species,True
+Naumann's Thrush,Naumann's Thrush,Turdus naumanni,dusthr1,species,dusthr1,species,True
+Turdus sp.,Turdus sp.,Turdus sp.,turdus1,spuh,turdus1,spuh,False
+thrush sp.,thrush sp.,Turdidae sp.,thrush1,spuh,thrush1,spuh,False
+Spotted Flycatcher,Spotted Flycatcher,Muscicapa striata,spofly1,species,spofly1,species,True
+Muscicapa sp.,Muscicapa sp.,Muscicapa sp.,muscic1,spuh,muscic1,spuh,False
+Rufous-tailed Scrub-Robin,Rufous-tailed Scrub-Robin,Cercotrichas galactotes,rutscr1,species,rutscr1,species,True
+European Robin,European Robin,Erithacus rubecula,eurrob1,species,eurrob1,species,True
+Common Nightingale,Common Nightingale,Luscinia megarhynchos,comnig1,species,comnig1,species,True
+Bluethroat,Bluethroat,Luscinia svecica,blueth,species,blueth,species,True
+Red-flanked Bluetail,Red-flanked Bluetail,Tarsiger cyanurus,refblu,species,refblu,species,True
+Red-breasted Flycatcher,Red-breasted Flycatcher,Ficedula parva,rebfly,species,rebfly,species,True
+European Pied Flycatcher,European Pied Flycatcher,Ficedula hypoleuca,eupfly1,species,eupfly1,species,True
+Collared Flycatcher,Collared Flycatcher,Ficedula albicollis,colfly1,species,colfly1,species,True
+European Pied x Collared Flycatcher (hybrid),European Pied x Collared Flycatcher (hybrid),Ficedula hypoleuca x albicollis,x00817,hybrid,x00817,hybrid,False
+Ficedula sp.,Ficedula sp.,Ficedula sp.,ficedu1,spuh,ficedu1,spuh,False
+Moussier's Redstart,Moussier's Redstart,Phoenicurus moussieri,moured1,species,moured1,species,True
+Common Redstart,Common Redstart,Phoenicurus phoenicurus,comred2,species,comred2,species,True
+Black Redstart,Black Redstart,Phoenicurus ochruros,blared1,species,blared1,species,True
+Common/Black Redstart,Common/Black Redstart,Phoenicurus phoenicurus/ochruros,y01071,slash,y01071,slash,False
+redstart sp.,redstart sp.,Phoenicurus sp.,redsta1,spuh,redsta1,spuh,False
+Rufous-tailed Rock-Thrush,Rufous-tailed Rock-Thrush,Monticola saxatilis,rtrthr1,species,rtrthr1,species,True
+Blue Rock-Thrush,Blue Rock-Thrush,Monticola solitarius,burthr,species,burthr,species,True
+rock-thrush sp.,rock-thrush sp.,Monticola sp.,rock-t1,spuh,rock-t1,spuh,False
+Whinchat,Whinchat,Saxicola rubetra,whinch1,species,whinch1,species,True
+Fuerteventura Stonechat,Fuerteventura Stonechat,Saxicola dacotiae,caisto1,species,caisto1,species,True
+European Stonechat,European Stonechat,Saxicola rubicola,stonec4,species,stonec4,species,True
+Siberian Stonechat,Siberian Stonechat,Saxicola maurus,sibsto1,species,sibsto1,species,True
+Northern Wheatear,Northern Wheatear,Oenanthe oenanthe,norwhe,species,norwhe,species,True
+Isabelline Wheatear,Isabelline Wheatear,Oenanthe isabellina,isawhe1,species,isawhe1,species,True
+Desert Wheatear,Desert Wheatear,Oenanthe deserti,deswhe1,species,deswhe1,species,True
+Black-eared Wheatear,Black-eared Wheatear,Oenanthe hispanica,blewhe1,species,blewhe1,species,True
+Northern/Black-eared Wheatear,Northern/Black-eared Wheatear,Oenanthe oenanthe/hispanica,y00915,slash,y00915,slash,False
+Black Wheatear,Black Wheatear,Oenanthe leucura,blawhe1,species,blawhe1,species,True
+wheatear sp.,wheatear sp.,Oenanthe sp.,wheate1,spuh,wheate1,spuh,False
+Black-headed Weaver,Black-headed Weaver,Ploceus melanocephalus,blhwea1,species,blhwea1,species,True
+Red-billed Quelea,Red-billed Quelea,Quelea quelea,rebque1,species,rebque1,species,True
+Southern Red Bishop,Southern Red Bishop,Euplectes orix,redbis,species,redbis,species,True
+Yellow-crowned Bishop,Yellow-crowned Bishop,Euplectes afer,yecbis,species,yecbis,species,True
+Euplectes sp.,Euplectes sp.,Euplectes sp.,euplec1,spuh,euplec1,spuh,False
+Orange-cheeked Waxbill,Orange-cheeked Waxbill,Estrilda melpoda,orcwax,species,orcwax,species,True
+Black-rumped Waxbill,Black-rumped Waxbill,Estrilda troglodytes,bkrwax,species,bkrwax,species,True
+Common Waxbill,Common Waxbill,Estrilda astrild,comwax,species,comwax,species,True
+waxbill sp.,waxbill sp.,Estrilda sp.,waxbil1,spuh,waxbil1,spuh,False
+Red Avadavat,Red Avadavat,Amandava amandava,redava,species,redava,species,True
+Zebra Finch,Zebra Finch,Taeniopygia guttata,zebfin2,species,zebfin2,species,True
+Zebra x Double-barred Finch (hybrid),Zebra x Double-barred Finch (hybrid),Taeniopygia guttata x bichenovii,x00906,hybrid,x00906,hybrid,False
+African Silverbill,African Silverbill,Euodice cantans,afrsil1,species,afrsil1,species,True
+Scaly-breasted Munia,Scaly-breasted Munia,Lonchura punctulata,nutman,species,nutman,species,True
+Alpine Accentor,Alpine Accentor,Prunella collaris,alpacc1,species,alpacc1,species,True
+Dunnock,Dunnock,Prunella modularis,dunnoc1,species,dunnoc1,species,True
+House Sparrow,House Sparrow,Passer domesticus,houspa,species,houspa,species,True
+Italian Sparrow,Italian Sparrow,Passer italiae,itaspa1,species,itaspa1,species,True
+House x Italian Sparrow (hybrid),House x Italian Sparrow (hybrid),Passer domesticus x italiae,x00873,hybrid,x00873,hybrid,False
+Spanish Sparrow,Spanish Sparrow,Passer hispaniolensis,spaspa1,species,spaspa1,species,True
+House x Spanish Sparrow (hybrid),House x Spanish Sparrow (hybrid),Passer domesticus x hispaniolensis,x00645,hybrid,x00645,hybrid,False
+House/Spanish Sparrow,House/Spanish Sparrow,Passer domesticus/hispaniolensis,y00829,slash,y00829,slash,False
+Eurasian Tree Sparrow,Eurasian Tree Sparrow,Passer montanus,eutspa,species,eutspa,species,True
+House/Eurasian Tree Sparrow,House/Eurasian Tree Sparrow,Passer domesticus/montanus,y00764,slash,y00764,slash,False
+Sudan Golden Sparrow,Sudan Golden Sparrow,Passer luteus,sugspa1,species,sugspa1,species,True
+Passer sp.,Passer sp.,Passer sp.,passer2,spuh,passer2,spuh,False
+Rock Sparrow,Rock Sparrow,Petronia petronia,rocpet1,species,rocpet1,species,True
+White-winged Snowfinch,White-winged Snowfinch,Montifringilla nivalis,whwsno1,species,whwsno1,species,True
+Gray Wagtail,Gray Wagtail,Motacilla cinerea,grywag,species,grywag,species,True
+Western Yellow Wagtail,Western Yellow Wagtail,Motacilla flava,eaywag1,species,eaywag1,species,True
+Citrine Wagtail,Citrine Wagtail,Motacilla citreola,citwag,species,citwag,species,True
+White Wagtail,White Wagtail,Motacilla alba,whiwag,species,whiwag,species,True
+wagtail sp.,wagtail sp.,Motacilla sp.,wagtai1,spuh,wagtai1,spuh,False
+Richard's Pipit,Richard's Pipit,Anthus richardi,ricpip1,species,ricpip1,species,True
+Richard's/Paddyfield Pipit,Richard's/Paddyfield Pipit,Anthus richardi/rufulus,y00918,slash,y00918,slash,False
+Tawny Pipit,Tawny Pipit,Anthus campestris,tawpip1,species,tawpip1,species,True
+Berthelot's Pipit,Berthelot's Pipit,Anthus berthelotii,berpip1,species,berpip1,species,True
+Meadow Pipit,Meadow Pipit,Anthus pratensis,meapip1,species,meapip1,species,True
+Tree Pipit,Tree Pipit,Anthus trivialis,trepip,species,trepip,species,True
+Meadow/Tree Pipit,Meadow/Tree Pipit,Anthus pratensis/trivialis,y00672,slash,y00672,slash,False
+Olive-backed Pipit,Olive-backed Pipit,Anthus hodgsoni,olbpip,species,olbpip,species,True
+Red-throated Pipit,Red-throated Pipit,Anthus cervinus,retpip,species,retpip,species,True
+Water Pipit,Water Pipit,Anthus spinoletta,watpip1,species,watpip1,species,True
+Meadow/Water Pipit,Meadow/Water Pipit,Anthus pratensis/spinoletta,y00671,slash,y00671,slash,False
+Rock Pipit,Rock Pipit,Anthus petrosus,rocpip1,species,rocpip1,species,True
+Water/Rock Pipit,Water/Rock Pipit,Anthus spinoletta/petrosus,y00759,slash,y00759,slash,False
+pipit sp.,pipit sp.,Anthus sp.,pipit1,spuh,pipit1,spuh,False
+Common Chaffinch,Common Chaffinch,Fringilla coelebs,comcha,species,comcha,species,True
+Brambling,Brambling,Fringilla montifringilla,brambl,species,brambl,species,True
+Hawfinch,Hawfinch,Coccothraustes coccothraustes,hawfin,species,hawfin,species,True
+Common Rosefinch,Common Rosefinch,Carpodacus erythrinus,comros,species,comros,species,True
+Eurasian Bullfinch,Eurasian Bullfinch,Pyrrhula pyrrhula,eurbul,species,eurbul,species,True
+Trumpeter Finch,Trumpeter Finch,Bucanetes githagineus,trufin2,species,trufin2,species,True
+European Greenfinch,European Greenfinch,Chloris chloris,eurgre1,species,eurgre1,species,True
+Twite,Twite,Linaria flavirostris,twite1,species,twite1,species,True
+Eurasian Linnet,Eurasian Linnet,Linaria cannabina,eurlin1,species,eurlin1,species,True
+Common Redpoll,Common Redpoll,Acanthis flammea,comred,species,comred,species,True
+Lesser Redpoll,Lesser Redpoll,Acanthis cabaret,lesred1,species,lesred1,species,True
+Common/Lesser Redpoll,Common/Lesser Redpoll,Acanthis flammea/cabaret,y00763,slash,y00763,slash,False
+Red Crossbill,Red Crossbill,Loxia curvirostra,redcro,species,redcro,species,True
+European Goldfinch,European Goldfinch,Carduelis carduelis,eurgol,species,eurgol,species,True
+Citril Finch,Citril Finch,Carduelis citrinella,citfin1,species,citfin1,species,True
+European Serin,European Serin,Serinus serinus,eurser1,species,eurser1,species,True
+Island Canary,Island Canary,Serinus canaria,comcan,species,comcan,species,True
+Island Canary (Domestic type),Island Canary (Domestic type),Serinus canaria (Domestic type),islcan1,domestic,islcan1,domestic,False
+Eurasian Siskin,Eurasian Siskin,Spinus spinus,eursis,species,eursis,species,True
+finch sp.,finch sp.,Fringillidae sp.,finch1,spuh,finch1,spuh,False
+Lapland Longspur,Lapland Longspur,Calcarius lapponicus,laplon,species,laplon,species,True
+Snow Bunting,Snow Bunting,Plectrophenax nivalis,snobun,species,snobun,species,True
+Black-headed Bunting,Black-headed Bunting,Emberiza melanocephala,blhbun1,species,blhbun1,species,True
+Corn Bunting,Corn Bunting,Emberiza calandra,corbun1,species,corbun1,species,True
+Rock Bunting,Rock Bunting,Emberiza cia,rocbun1,species,rocbun1,species,True
+Cirl Bunting,Cirl Bunting,Emberiza cirlus,cirbun1,species,cirbun1,species,True
+Yellowhammer,Yellowhammer,Emberiza citrinella,yellow2,species,yellow2,species,True
+Pine Bunting,Pine Bunting,Emberiza leucocephalos,pinbun,species,pinbun,species,True
+Ortolan Bunting,Ortolan Bunting,Emberiza hortulana,ortbun1,species,ortbun1,species,True
+House Bunting,House Bunting,Emberiza sahari,houbun3,species,houbun3,species,True
+Reed Bunting,Reed Bunting,Emberiza schoeniclus,reebun,species,reebun,species,True
+Yellow-breasted Bunting,Yellow-breasted Bunting,Emberiza aureola,yebbun,species,yebbun,species,True
+Little Bunting,Little Bunting,Emberiza pusilla,litbun,species,litbun,species,True
+Emberiza sp.,Emberiza sp.,Emberiza sp.,emberi1,spuh,emberi1,spuh,False
+passerine sp.,passerine sp.,Passeriformes sp.,passer1,spuh,passer1,spuh,False
+bird sp.,bird sp.,Aves sp.,bird1,spuh,bird1,spuh,False
