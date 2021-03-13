@@ -100,6 +100,24 @@ text_file = open(re+"/hotspots_enhanced.json", "w")
 text_file.write(tmp)
 text_file.close()
 
+## Export as xls
+ct = [8];
+hotspots_table=hotspots_enhanced
+for h in hotspots_table:
+    h['values_N'] = sum([h['values_N'][i] for i in ct])
+    for v in  h['values']:
+        h[v] = sum([h['values'][v][i] for i in ct])
+    h.pop("values", None)
+    
+keys = ['locId', 'locName', 'countryCode', 'subnational1Code', 'subnational2Code', 'lat', 'lng', 'latestObsDt', 'numSpeciesAllTime', 'numSpecies', 'numChecklists'];
+keys.extend([sp['speciesCode'] for sp in species])
+
+with open(re+'/hotspots_table.csv', 'w', newline='') as output_file:
+    dict_writer = csv.DictWriter(output_file,keys,extrasaction='ignore')
+    dict_writer.writeheader()
+    dict_writer.writerows(hotspots_table)
+    
+    
 ####################################################
 # PART 3: Export species list
 
@@ -170,7 +188,12 @@ with open(re+'/species.json', 'w') as f:
     json.dump(species_export, f)
 
 
-
+with open(re+'/species_table.csv', 'w', newline='') as output_file:
+    dict_writer = csv.DictWriter(output_file,[*species_export[0]],extrasaction='ignore')
+    dict_writer.writeheader()
+    dict_writer.writerows(species_export)
+    
+   
 
 
 
