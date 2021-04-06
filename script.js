@@ -1,6 +1,7 @@
-//var C = [];
-//var SP = [];
+var C = [];
+var SP = [];
 var c = ""
+var hot
 var tag_list = [ ['EN','EN_ssp','NE','INT','END',], ['Endemic','Endemic subspecie','Near-endemic (including subspecie)','Introduced','Endangered']];
 var selectedDate = [true, true, true, true, true, true, true, true, true, true, true, true];
 var selectedRegion = ['KE-110'];
