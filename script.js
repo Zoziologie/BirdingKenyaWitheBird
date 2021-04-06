@@ -158,17 +158,17 @@ $(document).ready(function () {
             });
             
             
-            C.forEach(function (c, _idx, _array) {
-                var pop = '<h6>' + c.locName + '</h6>';
-                if ('top50' in c && c.top50.length > 0) {
+            C.forEach(function (c2, _idx, _array) {
+                var pop = '<h6>' + c2.locName + '</h6>';
+                if ('top50' in c2 && c2.top50.length > 0) {
                     pop += '<b>top50:</b> #' + c.top50 + '<br>';
                 }
-                pop += '<b>Number of checklists:</b> ' + c.numChecklists;
-                pop += '<br><b>Number of species:</b> ' + c.numSpecies;
-                pop += '<br><b>eBird:</b> <a href="https://ebird.org/hotspot/' + c.locId + '" target="_blank">' + c.locId + '</a>';
-                var m = L.marker([c.lat, c.lng], {
-                    title: c.locName,
-                    id: c.locId,
+                pop += '<b>Number of checklists:</b> ' + c2.numChecklists;
+                pop += '<br><b>Number of species:</b> ' + c2.numSpecies;
+                pop += '<br><b>eBird:</b> <a href="https://ebird.org/hotspot/' + c2.locId + '" target="_blank">' + c2.locId + '</a>';
+                var m = L.marker([c2.lat, c2.lng], {
+                    title: c2.locName,
+                    id: c2.locId,
                     icon: L.icon({
                         iconUrl: "/assets/hotspot-icon-hotspot_small.png",
                         iconAnchor: [12, 30],
