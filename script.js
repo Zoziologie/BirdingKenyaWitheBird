@@ -181,93 +181,92 @@ $(document).ready(function () {
                 
                 if (_idx === _array.length - 1) {
                     map.fitBounds(markers.getBounds());
-                    setTimeout(function () {
-                        jQuery('#mymodal').modal('hide');
-                        
-                        hot.updateSettings({
-                            height: window.innerHeight - $('.form-inline').outerHeight()-40
-                        });
-                        
-                        jQuery('[data-toggle="tooltip"]').tooltip();
-                    }, 1000);
                 }
             })
-        })
-        
-        
-        jQuery.getJSON(c+'/species.json', function (data) {
-            SP = data;
-            SP_tag = [[],[]];
-            SP.forEach( function(sp){
-                if ('class' in sp){
-                    SP_tag[0].push(sp.displayName)
-                    SP_tag[1].push(sp.class)
-                }
-            });  
-            
-            var col = buildColumns();
-            
-            hot = new Handsontable(document.getElementById('table'), {
-                data: buildData(),
-                columns: col[0],
-                //startCols: data.length,
-                colHeaders: col[1],
-                rowHeaders: false,//C.map( c => c.locName),
-                /*dropdownMenu: true,
-                filters: true,
-                contexMenu: true,*/
-                columnSorting: {
-                    sortEmptyCells: true,
-                    initialConfig: {
-                        column: 0,
-                        sortOrder: 'asc'
+
+            jQuery.getJSON(c+'/species.json', function (data) {
+                SP = data;
+                SP_tag = [[],[]];
+                SP.forEach( function(sp){
+                    if ('class' in sp){
+                        SP_tag[0].push(sp.displayName)
+                        SP_tag[1].push(sp.class)
                     }
-                },
-                /*hiddenColumns:{
-                    columns: data.map((e,i) => e.category=='species' ? undefined : i).filter(x => x),
-                },*/
-                /*hiddenRows: {
-                    indicators: true,
-                    rows: [1,2]
-                },*/
-                width: '100%',
-                height: '300px',
-                colWidths: function(i) {
-                    if (i === 0) {
-                        return 170
-                    } else {
-                        return 30
-                    }
-                },
-                afterGetColHeader: function(i, TH) {
-                    if ( !TH.firstElementChild.classList.contains('head') ) {
-                        if (i > 5){
-                            var index = TH.textContent.split('|')[1];
-                            TH.firstElementChild.firstElementChild.innerHTML = TH.textContent.split('|')[0];
-                            TH.firstElementChild.innerHTML += '<a href="https://ebird.org/map/'+SP[index].speciesCode+'?env.minX=33.91&env.minY=-4.72&env.maxX=41.888&env.maxY=4.634&zh=true&gp=true" class="linkMap" target="_blank"><img src="/assets/faviconeBird16.png"></i></a>';
-                            TH.firstElementChild.innerHTML +=  '<span class="iconToClick" onclick="DisplayMap(\'+SP[index].speciesCode+\',\''+SP[index].displayName+'\')"><i class="fas fa-map"></i></span>'
-                            if ( SP[index].class !== undefined ) {
-                                SP[index].class.forEach( function(classtag){
-                                    var z = document.createElement('span');
-                                    z.classList.add("tag");
-                                    var it = tag_list[0].indexOf(classtag)
-                                    z.setAttribute("title", tag_list[1][it]);
-                                    z.setAttribute("data-toggle", "tooltip");
-                                    z.innerHTML = ' (' + classtag + ')';
-                                    TH.firstElementChild.append(z)
-                                })
-                            }
+                });  
+                
+                var col = buildColumns();
+                
+                hot = new Handsontable(document.getElementById('table'), {
+                    data: buildData(),
+                    columns: col[0],
+                    //startCols: data.length,
+                    colHeaders: col[1],
+                    rowHeaders: false,//C.map( c => c.locName),
+                    /*dropdownMenu: true,
+                    filters: true,
+                    contexMenu: true,*/
+                    columnSorting: {
+                        sortEmptyCells: true,
+                        initialConfig: {
+                            column: 0,
+                            sortOrder: 'asc'
                         }
-                        TH.innerHTML = '<div class="head">' + TH.innerHTML + '</div>';
-                    }
-                },
-                licenseKey: 'non-commercial-and-evaluation',
-                //fixedRowsTop: 2,
-                fixedColumnsLeft: 3
-            });
-            
-            
-        })   
+                    },
+                    /*hiddenColumns:{
+                        columns: data.map((e,i) => e.category=='species' ? undefined : i).filter(x => x),
+                    },*/
+                    /*hiddenRows: {
+                        indicators: true,
+                        rows: [1,2]
+                    },*/
+                    width: '100%',
+                    height: '300px',
+                    colWidths: function(i) {
+                        if (i === 0) {
+                            return 170
+                        } else {
+                            return 30
+                        }
+                    },
+                    afterGetColHeader: function(i, TH) {
+                        if ( !TH.firstElementChild.classList.contains('head') ) {
+                            if (i > 5){
+                                var index = TH.textContent.split('|')[1];
+                                TH.firstElementChild.firstElementChild.innerHTML = TH.textContent.split('|')[0];
+                                TH.firstElementChild.innerHTML += '<a href="https://ebird.org/map/'+SP[index].speciesCode+'?env.minX=33.91&env.minY=-4.72&env.maxX=41.888&env.maxY=4.634&zh=true&gp=true" class="linkMap" target="_blank"><img src="/assets/faviconeBird16.png"></i></a>';
+                                TH.firstElementChild.innerHTML +=  '<span class="iconToClick" onclick="DisplayMap(\'+SP[index].speciesCode+\',\''+SP[index].displayName+'\')"><i class="fas fa-map"></i></span>'
+                                if ( SP[index].class !== undefined ) {
+                                    SP[index].class.forEach( function(classtag){
+                                        var z = document.createElement('span');
+                                        z.classList.add("tag");
+                                        var it = tag_list[0].indexOf(classtag)
+                                        z.setAttribute("title", tag_list[1][it]);
+                                        z.setAttribute("data-toggle", "tooltip");
+                                        z.innerHTML = ' (' + classtag + ')';
+                                        TH.firstElementChild.append(z)
+                                    })
+                                }
+                            }
+                            TH.innerHTML = '<div class="head">' + TH.innerHTML + '</div>';
+                        }
+                    },
+                    licenseKey: 'non-commercial-and-evaluation',
+                    //fixedRowsTop: 2,
+                    fixedColumnsLeft: 3
+                });
+                
+                jQuery('#mymodal').modal('hide');
+                        
+                hot.updateSettings({
+                    height: window.innerHeight - $('.form-inline').outerHeight()-40
+                });
+                
+                jQuery('[data-toggle="tooltip"]').tooltip();
+                
+            })  
+        })       
+        
+         
     });
     
 });
